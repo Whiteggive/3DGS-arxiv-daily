@@ -68,7 +68,7 @@ layout: default
 |**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096](http://arxiv.org/abs/2311.16096)|**[link](https://github.com/lizhe00/animatablegaussians)**|
 |**2023-11-27**|**Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing**|Jian Gao et.al.|[2311.16043](http://arxiv.org/abs/2311.16043)|null|
 |**2023-11-27**|**GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions**|Jiemin Fang et.al.|[2311.16037](http://arxiv.org/abs/2311.16037)|null|
-|**2023-12-13**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|null|
+|**2023-12-13**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|**[link](https://github.com/buaacyw/gaussianeditor)**|
 |**2023-11-22**|**Compact 3D Gaussian Representation for Radiance Field**|Joo Chan Lee et.al.|[2311.13681](http://arxiv.org/abs/2311.13681)|**[link](https://github.com/maincold2/Compact-3DGS)**|
 |**2023-12-04**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398](http://arxiv.org/abs/2311.13398)|null|
 |**2023-11-23**|**LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes**|Jaeyoung Chung et.al.|[2311.13384](http://arxiv.org/abs/2311.13384)|null|
