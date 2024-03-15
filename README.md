@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/abs/2403.09637)|null|
+|**2024-03-14**|**Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**|Jaewoo Jung et.al.|[2403.09413](http://arxiv.org/abs/2403.09413)|null|
+|**2024-03-14**|**A New Split Algorithm for 3D Gaussian Splatting**|Qiyuan Feng et.al.|[2403.09143](http://arxiv.org/abs/2403.09143)|null|
 |**2024-03-14**|**GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing**|Jing Wu et.al.|[2403.08733](http://arxiv.org/abs/2403.08733)|null|
 |**2024-03-14**|**GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting**|Xinjie Zhang et.al.|[2403.08551](http://arxiv.org/abs/2403.08551)|null|
 |**2024-03-13**|**Gaussian Splatting in Style**|Abhishek Saroha et.al.|[2403.08498](http://arxiv.org/abs/2403.08498)|null|
