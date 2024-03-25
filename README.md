@@ -31,7 +31,7 @@
 |**2024-03-20**|**Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion**|Otto Seiskari et.al.|[2403.13327](http://arxiv.org/abs/2403.13327)|**[link](https://github.com/spectacularai/3dgs-deblur)**|
 |**2024-03-19**|**GVGEN: Text-to-3D Generation with Volumetric Representation**|Xianglong He et.al.|[2403.12957](http://arxiv.org/abs/2403.12957)|null|
 |**2024-03-19**|**HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting**|Hongyu Zhou et.al.|[2403.12722](http://arxiv.org/abs/2403.12722)|null|
-|**2024-03-19**|**RGBD GS-ICP SLAM**|Seongbo Ha et.al.|[2403.12550](http://arxiv.org/abs/2403.12550)|null|
+|**2024-03-19**|**RGBD GS-ICP SLAM**|Seongbo Ha et.al.|[2403.12550](http://arxiv.org/abs/2403.12550)|**[link](https://github.com/lab-of-ai-and-robotics/gs_icp_slam)**|
 |**2024-03-19**|**High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization**|Shuo Sun et.al.|[2403.12535](http://arxiv.org/abs/2403.12535)|null|
 |**2024-03-19**|**GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation**|Quankai Gao et.al.|[2403.12365](http://arxiv.org/abs/2403.12365)|null|
 |**2024-03-20**|**View-Consistent 3D Editing with Gaussian Splatting**|Yuxuan Wang et.al.|[2403.11868](http://arxiv.org/abs/2403.11868)|null|
@@ -50,9 +50,9 @@
 |**2024-03-15**|**FDGaussian: Fast Gaussian Splatting from Single Image via Geometric-aware Diffusion Model**|Qijun Feng et.al.|[2403.10242](http://arxiv.org/abs/2403.10242)|null|
 |**2024-03-15**|**GGRt: Towards Generalizable 3D Gaussians without Pose Priors in Real-Time**|Hao Li et.al.|[2403.10147](http://arxiv.org/abs/2403.10147)|null|
 |**2024-03-15**|**Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing**|Tian-Xing Xu et.al.|[2403.10050](http://arxiv.org/abs/2403.10050)|null|
-|**2024-03-15**|**Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting**|Zhiqi Li et.al.|[2403.09981](http://arxiv.org/abs/2403.09981)|null|
+|**2024-03-15**|**Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting**|Zhiqi Li et.al.|[2403.09981](http://arxiv.org/abs/2403.09981)|**[link](https://github.com/WU-CVGL/MVControl-threestudio)**|
 |**2024-03-14**|**Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting**|Aiden Swann et.al.|[2403.09875](http://arxiv.org/abs/2403.09875)|null|
-|**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/abs/2403.09637)|null|
+|**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/abs/2403.09637)|**[link](https://github.com/mrsecant/gaussiangrasper)**|
 |**2024-03-14**|**Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**|Jaewoo Jung et.al.|[2403.09413](http://arxiv.org/abs/2403.09413)|**[link](https://github.com/KU-CVLAB/RAIN-GS)**|
 |**2024-03-14**|**A New Split Algorithm for 3D Gaussian Splatting**|Qiyuan Feng et.al.|[2403.09143](http://arxiv.org/abs/2403.09143)|null|
 |**2024-03-14**|**GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing**|Jing Wu et.al.|[2403.08733](http://arxiv.org/abs/2403.08733)|null|
