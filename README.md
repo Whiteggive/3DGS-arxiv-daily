@@ -35,7 +35,7 @@
 |**2024-04-21**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711](http://arxiv.org/abs/2404.13711)|**[link](https://github.com/silence-tang/artnerf)**|
 |**2024-04-21**|**GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal**|Yuxin Wang et.al.|[2404.13679](http://arxiv.org/abs/2404.13679)|null|
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437](http://arxiv.org/abs/2404.13437)|null|
-|**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346](http://arxiv.org/abs/2404.13346)|null|
+|**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346](http://arxiv.org/abs/2404.13346)|**[link](https://github.com/lightingooo/ec-slam)**|
 |**2024-04-19**|**FlyNeRF: NeRF-Based Aerial Mapping for High-Quality 3D Scene Reconstruction**|Maria Dronova et.al.|[2404.12970](http://arxiv.org/abs/2404.12970)|null|
 |**2024-04-19**|**Learn2Talk: 3D Talking Face Learns from 2D Talking Face**|Yixiang Zhuang et.al.|[2404.12888](http://arxiv.org/abs/2404.12888)|null|
 |**2024-04-19**|**Contrastive Gaussian Clustering: Weakly Supervised 3D Scene Segmentation**|Myrna C. Silva et.al.|[2404.12784](http://arxiv.org/abs/2404.12784)|null|
@@ -131,7 +131,7 @@
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034](http://arxiv.org/abs/2403.20034)|**[link](https://github.com/dtc111111/neslam)**|
 |**2024-03-29**|**HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes**|Zhuopeng Li et.al.|[2403.20032](http://arxiv.org/abs/2403.20032)|null|
 |**2024-03-29**|**SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**|Yunhao Li et.al.|[2403.20018](http://arxiv.org/abs/2403.20018)|**[link](https://github.com/wu-cvgl/scinerf)**|
-|**2024-03-29**|**DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal**|Yunhao Li et.al.|[2403.20013](http://arxiv.org/abs/2403.20013)|null|
+|**2024-03-29**|**DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal**|Yunhao Li et.al.|[2403.20013](http://arxiv.org/abs/2403.20013)|**[link](https://github.com/yunhaoli2020/DerainNeRF)**|
 |**2024-03-29**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920](http://arxiv.org/abs/2403.19920)|null|
 |**2024-03-28**|**GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling**|Bowen Zhang et.al.|[2403.19655](http://arxiv.org/abs/2403.19655)|null|
 |**2024-03-28**|**GauStudio: A Modular Framework for 3D Gaussian Splatting and Beyond**|Chongjie Ye et.al.|[2403.19632](http://arxiv.org/abs/2403.19632)|**[link](https://github.com/gap-lab-cuhk-sz/gaustudio)**|
@@ -290,7 +290,7 @@
 |**2023-12-10**|**ASH: Animatable Gaussian Splats for Efficient and Photoreal Human Rendering**|Haokai Pang et.al.|[2312.05941](http://arxiv.org/abs/2312.05941)|**[link](https://github.com/kv2000/ASH)**|
 |**2023-12-09**|**CoGS: Controllable Gaussian Splatting**|Heng Yu et.al.|[2312.05664](http://arxiv.org/abs/2312.05664)|null|
 |**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820](http://arxiv.org/abs/2312.04820)|null|
-|**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/abs/2312.04564)|null|
+|**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/abs/2312.04564)|**[link](https://github.com/sharath-girish/efficientgaussian)**|
 |**2023-12-07**|**MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar**|Yufan Chen et.al.|[2312.04558](http://arxiv.org/abs/2312.04558)|null|
 |**2023-12-07**|**HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting**|Yuheng Jiang et.al.|[2312.03461](http://arxiv.org/abs/2312.03461)|null|
 |**2023-12-06**|**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**|Youtian Lin et.al.|[2312.03431](http://arxiv.org/abs/2312.03431)|null|
@@ -312,7 +312,7 @@
 |**2023-11-30**|**Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering**|Yurui Chen et.al.|[2311.18561](http://arxiv.org/abs/2311.18561)|null|
 |**2023-11-30**|**Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization**|KL Navaneet et.al.|[2311.18159](http://arxiv.org/abs/2311.18159)|**[link](https://github.com/ucdvision/compact3d)**|
 |**2023-11-29**|**GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces**|Yingwenqi Jiang et.al.|[2311.17977](http://arxiv.org/abs/2311.17977)|null|
-|**2023-11-29**|**HUGS: Human Gaussian Splats**|Muhammed Kocabas et.al.|[2311.17910](http://arxiv.org/abs/2311.17910)|null|
+|**2023-11-29**|**HUGS: Human Gaussian Splats**|Muhammed Kocabas et.al.|[2311.17910](http://arxiv.org/abs/2311.17910)|**[link](https://github.com/apple/ml-hugs)**|
 |**2023-11-29**|**CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting**|Alexander Vilesov et.al.|[2311.17907](http://arxiv.org/abs/2311.17907)|null|
 |**2023-11-29**|**FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information**|Wen Jiang et.al.|[2311.17874](http://arxiv.org/abs/2311.17874)|**[link](https://github.com/JiangWenPL/FisherRF)**|
 |**2023-12-07**|**LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**|Zhiwen Fan et.al.|[2311.17245](http://arxiv.org/abs/2311.17245)|**[link](https://github.com/VITA-Group/LightGaussian)**|
