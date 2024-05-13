@@ -350,7 +350,7 @@
 |**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732](http://arxiv.org/abs/2312.00732)|**[link](https://github.com/lkeab/gaussian-grouping)**|
 |**2023-11-30**|**MD-Splatting: Learning Metric Deformation from 4D Gaussians in Highly Deformable Scenes**|Bardienus P. Duisterhof et.al.|[2312.00583](http://arxiv.org/abs/2312.00583)|null|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451](http://arxiv.org/abs/2312.00451)|null|
-|**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206](http://arxiv.org/abs/2312.00206)|null|
+|**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206](http://arxiv.org/abs/2312.00206)|**[link](https://github.com/ForMyCat/SparseGS)**|
 |**2023-11-30**|**DynMF: Neural Motion Factorization for Real-time Dynamic View Synthesis with 3D Gaussian Splatting**|Agelos Kratimenos et.al.|[2312.00112](http://arxiv.org/abs/2312.00112)|null|
 |**2023-11-30**|**Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering**|Tao Lu et.al.|[2312.00109](http://arxiv.org/abs/2312.00109)|**[link](https://github.com/city-super/Scaffold-GS)**|
 |**2023-11-30**|**Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering**|Yurui Chen et.al.|[2311.18561](http://arxiv.org/abs/2311.18561)|null|
