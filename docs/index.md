@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**|Dor Verbin et.al.|[2405.14871](http://arxiv.org/abs/2405.14871)|null|
+|**2024-05-23**|**Tele-Aloha: A Low-budget and High-authenticity Telepresence System Using Sparse RGB Cameras**|Hanzhang Tu et.al.|[2405.14866](http://arxiv.org/abs/2405.14866)|null|
+|**2024-05-23**|**Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling**|Liwen Wu et.al.|[2405.14847](http://arxiv.org/abs/2405.14847)|null|
+|**2024-05-23**|**Camera Relocalization in Shadow-free Neural Radiance Fields**|Shiyao Xu et.al.|[2405.14824](http://arxiv.org/abs/2405.14824)|null|
+|**2024-05-23**|**LDM: Large Tensorial SDF Model for Textured Mesh Generation**|Rengan Xie et.al.|[2405.14580](http://arxiv.org/abs/2405.14580)|null|
+|**2024-05-23**|**MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes**|Ruiyuan Gao et.al.|[2405.14475](http://arxiv.org/abs/2405.14475)|null|
+|**2024-05-23**|**TIGER: Text-Instructed 3D Gaussian Retrieval and Coherent Editing**|Teng Xu et.al.|[2405.14455](http://arxiv.org/abs/2405.14455)|null|
+|**2024-05-23**|**JointRF: End-to-End Joint Optimization for Dynamic Neural Radiance Field Representation and Compression**|Zihan Zheng et.al.|[2405.14452](http://arxiv.org/abs/2405.14452)|null|
+|**2024-05-23**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[2405.14342](http://arxiv.org/abs/2405.14342)|null|
+|**2024-05-23**|**D-MiSo: Editing Dynamic 3D Scenes using Multi-Gaussians Soup**|Joanna Waczyńska et.al.|[2405.14276](http://arxiv.org/abs/2405.14276)|null|
 |**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806](http://arxiv.org/abs/2405.12806)|null|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/abs/2405.12728)|null|
 |**2024-05-21**|**LAGA: Layered 3D Avatar Generation and Customization via Gaussian Splatting**|Jia Gong et.al.|[2405.12663](http://arxiv.org/abs/2405.12663)|null|
