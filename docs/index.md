@@ -48,7 +48,7 @@ layout: default
 |**2024-05-13**|**Synergistic Integration of Coordinate Network and Tensorial Feature for Improving Neural Radiance Fields from Sparse Inputs**|Mingyu Kim et.al.|[2405.07857](http://arxiv.org/abs/2405.07857)|**[link](https://github.com/mingyukim87/synergynerf)**|
 |**2024-05-13**|**GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting**|Haodong Chen et.al.|[2405.07472](http://arxiv.org/abs/2405.07472)|null|
 |**2024-05-12**|**LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer**|Siyou Lin et.al.|[2405.07319](http://arxiv.org/abs/2405.07319)|null|
-|**2024-05-11**|**TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**|Zhen Tan et.al.|[2405.07027](http://arxiv.org/abs/2405.07027)|null|
+|**2024-05-11**|**TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**|Zhen Tan et.al.|[2405.07027](http://arxiv.org/abs/2405.07027)|**[link](https://github.com/nubot-nudt/td-nerf)**|
 |**2024-05-11**|**Direct Learning of Mesh and Appearance via 3D Gaussian Splatting**|Ancheng Lin et.al.|[2405.06945](http://arxiv.org/abs/2405.06945)|null|
 |**2024-05-10**|**OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**|Jinwei Lin et.al.|[2405.06547](http://arxiv.org/abs/2405.06547)|**[link](https://github.com/lin-jinwei/OneTo3D)**|
 |**2024-05-10**|**I3DGS: Improve 3D Gaussian Splatting from Multiple Dimensions**|Jinwei Lin et.al.|[2405.06408](http://arxiv.org/abs/2405.06408)|null|
@@ -261,7 +261,7 @@ layout: default
 |**2024-03-21**|**InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity**|Jiabin Liang et.al.|[2403.14376](http://arxiv.org/abs/2403.14376)|null|
 |**2024-03-22**|**SyncTweedies: A General Generative Framework Based on Synchronized Diffusions**|Jaihoon Kim et.al.|[2403.14370](http://arxiv.org/abs/2403.14370)|null|
 |**2024-03-21**|**Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering**|Yuanhao Gong et.al.|[2403.14244](http://arxiv.org/abs/2403.14244)|null|
-|**2024-03-21**|**Mini-Splatting: Representing Scenes with a Constrained Number of Gaussians**|Guangchi Fang et.al.|[2403.14166](http://arxiv.org/abs/2403.14166)|null|
+|**2024-03-21**|**Mini-Splatting: Representing Scenes with a Constrained Number of Gaussians**|Guangchi Fang et.al.|[2403.14166](http://arxiv.org/abs/2403.14166)|**[link](https://github.com/fatpeter/mini-splatting)**|
 |**2024-03-21**|**Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**|Jiacong Xu et.al.|[2403.14053](http://arxiv.org/abs/2403.14053)|null|
 |**2024-03-20**|**RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS**|Michael Niemeyer et.al.|[2403.13806](http://arxiv.org/abs/2403.13806)|null|
 |**2024-03-20**|**Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion**|Otto Seiskari et.al.|[2403.13327](http://arxiv.org/abs/2403.13327)|**[link](https://github.com/spectacularai/3dgs-deblur)**|
@@ -325,8 +325,8 @@ layout: default
 |**2024-02-06**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
 |**2024-02-02**|**Optimal Projection for 3D Gaussian Splatting**|Letian Huang et.al.|[2402.00752](http://arxiv.org/abs/2402.00752)|null|
-|**2024-02-01**|**StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering**|Lukas Radl et.al.|[2402.00525](http://arxiv.org/abs/2402.00525)|null|
-|**2024-02-01**|**Segment Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857](http://arxiv.org/abs/2401.17857)|null|
+|**2024-02-01**|**StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering**|Lukas Radl et.al.|[2402.00525](http://arxiv.org/abs/2402.00525)|**[link](https://github.com/r4dl/stopthepop)**|
+|**2024-02-01**|**Segment Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857](http://arxiv.org/abs/2401.17857)|**[link](https://github.com/xuhu0529/sags)**|
 |**2024-01-30**|**VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality**|Ying Jiang et.al.|[2401.16663](http://arxiv.org/abs/2401.16663)|null|
 |**2024-01-31**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|**[link](https://github.com/lastbasket/endo-4dgs)**|
 |**2024-01-27**|**Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting**|Yutao Feng et.al.|[2401.15318](http://arxiv.org/abs/2401.15318)|null|
