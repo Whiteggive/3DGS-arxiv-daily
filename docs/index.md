@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
+|**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111](http://arxiv.org/abs/2406.10111)|null|
+|**2024-06-14**|**GradeADreamer: Enhanced Text-to-3D Generation Using Gaussian Splatting and Multi-View Diffusion**|Trapoom Ukarapol et.al.|[2406.09850](http://arxiv.org/abs/2406.09850)|**[link](https://github.com/trapoom555/gradeadreamer)**|
+|**2024-06-14**|**RaNeuS: Ray-adaptive Neural Surface Reconstruction**|Yida Wang et.al.|[2406.09801](http://arxiv.org/abs/2406.09801)|**[link](https://github.com/wangyida/ra-neus)**|
+|**2024-06-14**|**Unified Gaussian Primitives for Scene Representation and Rendering**|Yang Zhou et.al.|[2406.09733](http://arxiv.org/abs/2406.09733)|null|
 |**2024-06-13**|**Modeling Ambient Scene Dynamics for Free-view Synthesis**|Meng-Li Shih et.al.|[2406.09395](http://arxiv.org/abs/2406.09395)|null|
 |**2024-06-13**|**GGHead: Fast and Generalizable 3D Gaussian Heads**|Tobias Kirschstein et.al.|[2406.09377](http://arxiv.org/abs/2406.09377)|null|
 |**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943](http://arxiv.org/abs/2406.08943)|null|
