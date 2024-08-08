@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825](http://arxiv.org/abs/2408.03825)|null|
+|**2024-08-07**|**Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields**|Joo Chan Lee et.al.|[2408.03822](http://arxiv.org/abs/2408.03822)|null|
+|**2024-08-07**|**3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting**|Zhe Jun Tang et.al.|[2408.03753](http://arxiv.org/abs/2408.03753)|null|
+|**2024-08-07**|**Goal-oriented Semantic Communication for the Metaverse Application**|Zhe Wang et.al.|[2408.03646](http://arxiv.org/abs/2408.03646)|null|
+|**2024-08-07**|**PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting**|Yijia Guo et.al.|[2408.03538](http://arxiv.org/abs/2408.03538)|null|
+|**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[2408.03516](http://arxiv.org/abs/2408.03516)|null|
+|**2024-08-06**|**RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis**|Hugo Blanc et.al.|[2408.03356](http://arxiv.org/abs/2408.03356)|null|
 |**2024-08-06**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen et.al.|[2408.03193](http://arxiv.org/abs/2408.03193)|null|
 |**2024-08-04**|**View-consistent Object Removal in Radiance Fields**|Yiren Lu et.al.|[2408.02100](http://arxiv.org/abs/2408.02100)|null|
 |**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878](http://arxiv.org/abs/2408.01878)|null|
