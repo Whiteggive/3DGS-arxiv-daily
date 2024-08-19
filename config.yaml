@@ -23,4 +23,4 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "3DGS":
-        filters: ["3DGS","Gaussian Splatting", "Radiance Fields", "3D Gaussians"]
+        filters: ["3DGS","Gaussian Splatting", "Radiance Fields", "3D Gaussians", "4D Reconstruction"]
