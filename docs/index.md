@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation**|Shuai Yang et.al.|[2408.13252](http://arxiv.org/abs/2408.13252)|null|
+|**2024-08-23**|**Atlas Gaussians Diffusion for 3D Generation with Infinite Number of Points**|Haitao Yang et.al.|[2408.13055](http://arxiv.org/abs/2408.13055)|null|
+|**2024-08-23**|**S4D: Streaming 4D Real-World Reconstruction with Gaussians and 3D Control Points**|Bing He et.al.|[2408.13036](http://arxiv.org/abs/2408.13036)|null|
+|**2024-08-23**|**FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering**|Yunji Seo et.al.|[2408.12894](http://arxiv.org/abs/2408.12894)|null|
+|**2024-08-22**|**GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion**|Jiaxin Wei et.al.|[2408.12677](http://arxiv.org/abs/2408.12677)|**[link](https://github.com/goldoak/gsfusion)**|
 |**2024-08-22**|**Subsurface Scattering for 3D Gaussian Splatting**|Jan-Niklas Dihlmann et.al.|[2408.12282](http://arxiv.org/abs/2408.12282)|null|
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**Robust 3D Gaussian Splatting for Novel View Synthesis in Presence of Distractors**|Paul Ungermann et.al.|[2408.11697](http://arxiv.org/abs/2408.11697)|**[link](https://github.com/paulungermann/Robust3DGaussians)**|
