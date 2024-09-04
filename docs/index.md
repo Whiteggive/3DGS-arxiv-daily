@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.03
+## Updated on 2024.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
@@ -18,7 +18,7 @@ layout: default
 |**2024-08-30**|**2DGH: 2D Gaussian-Hermite Splatting for High-quality Rendering and Better Geometry Reconstruction**|Ruihan Yu et.al.|[2408.16982](http://arxiv.org/abs/2408.16982)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
 |**2024-08-29**|**OmniRe: Omni Urban Scene Reconstruction**|Ziyu Chen et.al.|[2408.16760](http://arxiv.org/abs/2408.16760)|null|
-|**2024-08-29**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690](http://arxiv.org/abs/2408.16690)|null|
+|**2024-09-01**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690](http://arxiv.org/abs/2408.16690)|null|
 |**2024-08-29**|**NeRF-CA: Dynamic Reconstruction of X-ray Coronary Angiography with Extremely Sparse-views**|Kirsten W. H. Maas et.al.|[2408.16355](http://arxiv.org/abs/2408.16355)|**[link](https://github.com/kirstenmaas/nerf-ca)**|
 |**2024-08-28**|**Towards Realistic Example-based Modeling via 3D Gaussian Stitching**|Xinyu Gao et.al.|[2408.15708](http://arxiv.org/abs/2408.15708)|null|
 |**2024-08-28**|**G-Style: Stylized Gaussian Splatting**|Áron Samuel Kovács et.al.|[2408.15695](http://arxiv.org/abs/2408.15695)|null|
