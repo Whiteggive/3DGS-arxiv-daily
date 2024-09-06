@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors**|Hanyang Yu et.al.|[2409.03456](http://arxiv.org/abs/2409.03456)|null|
+|**2024-09-05**|**Weight Conditioning for Smooth Optimization of Neural Networks**|Hemanth Saratchandran et.al.|[2409.03424](http://arxiv.org/abs/2409.03424)|null|
+|**2024-09-05**|**Optimizing 3D Gaussian Splatting for Sparse Viewpoint Scene Reconstruction**|Shen Chen et.al.|[2409.03213](http://arxiv.org/abs/2409.03213)|null|
 |**2024-09-04**|**UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**|Jiaxin Guo et.al.|[2409.02917](http://arxiv.org/abs/2409.02917)|**[link](https://github.com/wrld/uc-nerf)**|
 |**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|null|
 |**2024-09-04**|**Object Gaussian for Monocular 6D Pose Estimation from Sparse Views**|Luqing Luo et.al.|[2409.02581](http://arxiv.org/abs/2409.02581)|null|
