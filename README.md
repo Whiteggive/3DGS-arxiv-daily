@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs**|Sadra Safadoust et.al.|[2409.07456](http://arxiv.org/abs/2409.07456)|null|
+|**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
+|**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452](http://arxiv.org/abs/2409.07452)|**[link](https://github.com/yanghb22-fdu/hi3d-official)**|
+|**2024-09-11**|**Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering**|Dafei Qin et.al.|[2409.07441](http://arxiv.org/abs/2409.07441)|null|
+|**2024-09-11**|**Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks**|Ruihan Xu et.al.|[2409.07245](http://arxiv.org/abs/2409.07245)|null|
+|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
+|**2024-09-11**|**Rethinking Directional Parameterization in Neural Implicit Surface Reconstruction**|Zijie Jiang et.al.|[2409.06923](http://arxiv.org/abs/2409.06923)|null|
+|**2024-09-10**|**gsplat: An Open-Source Library for Gaussian Splatting**|Vickie Ye et.al.|[2409.06765](http://arxiv.org/abs/2409.06765)|**[link](https://github.com/nerfstudio-project/gsplat)**|
 |**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
 |**2024-09-10**|**GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction**|Junyi Chen et.al.|[2409.06685](http://arxiv.org/abs/2409.06685)|null|
 |**2024-09-10**|**MVGaussian: High-Fidelity text-to-3D Content Generation with Multi-View Guidance and Surface Densification**|Phu Pham et.al.|[2409.06620](http://arxiv.org/abs/2409.06620)|null|
