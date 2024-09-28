@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**|Yuezhan Tao et.al.|[2409.18122](http://arxiv.org/abs/2409.18122)|null|
+|**2024-09-26**|**Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction**|Justin Kerr et.al.|[2409.18121](http://arxiv.org/abs/2409.18121)|null|
+|**2024-09-26**|**Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot**|Justin Yu et.al.|[2409.18108](http://arxiv.org/abs/2409.18108)|null|
+|**2024-09-26**|**LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**|Huan Wang et.al.|[2409.18057](http://arxiv.org/abs/2409.18057)|**[link](https://github.com/mingsun-tse/lightavatar-tensorflow)**|
+|**2024-09-26**|**Deblur e-NeRF: NeRF from Motion-Blurred Events under High-speed or Low-light Conditions**|Weng Fei Low et.al.|[2409.17988](http://arxiv.org/abs/2409.17988)|null|
+|**2024-09-26**|**Neural Light Spheres for Implicit Image Stitching and View Synthesis**|Ilya Chugunov et.al.|[2409.17924](http://arxiv.org/abs/2409.17924)|null|
+|**2024-09-26**|**WaSt-3D: Wasserstein-2 Distance for Scene-to-Scene Stylization on 3D Gaussians**|Dmytro Kotovenko et.al.|[2409.17917](http://arxiv.org/abs/2409.17917)|null|
+|**2024-09-26**|**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**|Qi Zhang et.al.|[2409.17729](http://arxiv.org/abs/2409.17729)|null|
+|**2024-09-26**|**HGS-Planner: Hierarchical Planning Framework for Active Scene Reconstruction Using 3D Gaussian Splatting**|Zijun Xu et.al.|[2409.17624](http://arxiv.org/abs/2409.17624)|null|
+|**2024-09-25**|**SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model**|Daniel Yang et.al.|[2409.17345](http://arxiv.org/abs/2409.17345)|null|
 |**2024-09-25**|**DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion**|Yukun Huang et.al.|[2409.17145](http://arxiv.org/abs/2409.17145)|null|
 |**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944](http://arxiv.org/abs/2409.16944)|null|
 |**2024-09-25**|**Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model**|Hongliang Zhong et.al.|[2409.16938](http://arxiv.org/abs/2409.16938)|**[link](https://github.com/jiutongbro/multiview_inpaint)**|
