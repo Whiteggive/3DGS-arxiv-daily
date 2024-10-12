@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.11
+## Updated on 2024.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2024-10-10**|**Fast Feedforward 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2410.08017](http://arxiv.org/abs/2410.08017)|null|
 |**2024-10-10**|**Generalizable and Animatable Gaussian Head Avatar**|Xuangeng Chu et.al.|[2410.07971](http://arxiv.org/abs/2410.07971)|**[link](https://github.com/xg-chu/gagavatar)**|
 |**2024-10-10**|**L-VITeX: Light-weight Visual Intuition for Terrain Exploration**|Antar Mazumder et.al.|[2410.07872](http://arxiv.org/abs/2410.07872)|null|
-|**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707](http://arxiv.org/abs/2410.07707)|null|
+|**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707](http://arxiv.org/abs/2410.07707)|**[link](https://github.com/RuijieZhu94/MotionGS)**|
 |**2024-10-10**|**3D Vision-Language Gaussian Splatting**|Qucheng Peng et.al.|[2410.07577](http://arxiv.org/abs/2410.07577)|null|
 |**2024-10-09**|**Thing2Reality: Transforming 2D Content into Conditioned Multiviews and 3D Gaussian Objects for XR Communication**|Erzhen Hu et.al.|[2410.07119](http://arxiv.org/abs/2410.07119)|null|
 |**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756](http://arxiv.org/abs/2410.06756)|null|
@@ -938,7 +938,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241012>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

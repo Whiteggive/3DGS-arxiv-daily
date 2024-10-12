@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.11
+## Updated on 2024.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
@@ -22,7 +22,7 @@ layout: default
 |**2024-10-10**|**Fast Feedforward 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2410.08017](http://arxiv.org/abs/2410.08017)|null|
 |**2024-10-10**|**Generalizable and Animatable Gaussian Head Avatar**|Xuangeng Chu et.al.|[2410.07971](http://arxiv.org/abs/2410.07971)|**[link](https://github.com/xg-chu/gagavatar)**|
 |**2024-10-10**|**L-VITeX: Light-weight Visual Intuition for Terrain Exploration**|Antar Mazumder et.al.|[2410.07872](http://arxiv.org/abs/2410.07872)|null|
-|**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707](http://arxiv.org/abs/2410.07707)|null|
+|**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707](http://arxiv.org/abs/2410.07707)|**[link](https://github.com/RuijieZhu94/MotionGS)**|
 |**2024-10-10**|**3D Vision-Language Gaussian Splatting**|Qucheng Peng et.al.|[2410.07577](http://arxiv.org/abs/2410.07577)|null|
 |**2024-10-09**|**Thing2Reality: Transforming 2D Content into Conditioned Multiviews and 3D Gaussian Objects for XR Communication**|Erzhen Hu et.al.|[2410.07119](http://arxiv.org/abs/2410.07119)|null|
 |**2024-10-09**|**DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**|Zhiqi Li et.al.|[2410.06756](http://arxiv.org/abs/2410.06756)|null|
