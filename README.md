@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-14**|**4-LEGS: 4D Language Embedded Gaussian Splatting**|Gal Fiebelman et.al.|[2410.10719](http://arxiv.org/abs/2410.10719)|null|
+|**2024-10-15**|**4-LEGS: 4D Language Embedded Gaussian Splatting**|Gal Fiebelman et.al.|[2410.10719](http://arxiv.org/abs/2410.10719)|null|
 |**2024-10-14**|**4DStyleGaussian: Zero-shot 4D Style Transfer with Gaussian Splatting**|Wanlin Liang et.al.|[2410.10412](http://arxiv.org/abs/2410.10412)|null|
 |**2024-10-14**|**NeRF-enabled Analysis-Through-Synthesis for ISAR Imaging of Small Everyday Objects with Sparse and Noisy UWB Radar Data**|Md Farhan Tasnim Oshim et.al.|[2410.10085](http://arxiv.org/abs/2410.10085)|null|
 |**2024-10-13**|**Magnituder Layers for Implicit Neural Representations in 3D**|Sang Min Kim et.al.|[2410.09771](http://arxiv.org/abs/2410.09771)|null|
@@ -953,7 +953,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
