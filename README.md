@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.10
+## Updated on 2024.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,8 +20,8 @@
 |**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006](http://arxiv.org/abs/2411.05006)|null|
 |**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984](http://arxiv.org/abs/2411.04984)|null|
 |**2024-11-07**|**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**|Yuedong Chen et.al.|[2411.04924](http://arxiv.org/abs/2411.04924)|**[link](https://github.com/donydchen/mvsplat360)**|
-|**2024-11-07**|**GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807](http://arxiv.org/abs/2411.03807)|null|
-|**2024-11-06**|**3DGS-CD: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement**|Ziqi Lu et.al.|[2411.03706](http://arxiv.org/abs/2411.03706)|null|
+|**2024-11-08**|**GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807](http://arxiv.org/abs/2411.03807)|null|
+|**2024-11-06**|**3DGS-CD: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement**|Ziqi Lu et.al.|[2411.03706](http://arxiv.org/abs/2411.03706)|**[link](https://github.com/520xyxyzq/3dgs-cd)**|
 |**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637](http://arxiv.org/abs/2411.03637)|**[link](https://github.com/prstrive/scgaussian)**|
 |**2024-11-05**|**Object and Contact Point Tracking in Demonstrations Using 3D Gaussian Splatting**|Michael Büttner et.al.|[2411.03555](http://arxiv.org/abs/2411.03555)|null|
 |**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086](http://arxiv.org/abs/2411.03086)|null|
@@ -1051,7 +1051,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241111>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
