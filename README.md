@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.21
+## Updated on 2024.11.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-20**|**Generating 3D-Consistent Videos from Unposed Internet Photos**|Gene Chou et.al.|[2411.13549](http://arxiv.org/abs/2411.13549)|null|
-|**2024-11-20**|**Geometric Algebra Planes: Convex Implicit Neural Volumes**|Irmak Sivgin et.al.|[2411.13525](http://arxiv.org/abs/2411.13525)|null|
+|**2024-11-21**|**Geometric Algebra Planes: Convex Implicit Neural Volumes**|Irmak Sivgin et.al.|[2411.13525](http://arxiv.org/abs/2411.13525)|null|
 |**2024-11-20**|**GazeGaussian: High-Fidelity Gaze Redirection with 3D Gaussian Splatting**|Xiaobao Wei et.al.|[2411.12981](http://arxiv.org/abs/2411.12981)|null|
 |**2024-11-19**|**Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting**|Haoyu Zhao et.al.|[2411.12789](http://arxiv.org/abs/2411.12789)|null|
 |**2024-11-19**|**Mini-Splatting2: Building 360 Scenes within Minutes via Aggressive Gaussian Densification**|Guangchi Fang et.al.|[2411.12788](http://arxiv.org/abs/2411.12788)|null|
@@ -1105,7 +1105,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20241121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241122>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
