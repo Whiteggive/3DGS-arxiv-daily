@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193](http://arxiv.org/abs/2412.13193)|**[link](https://github.com/hustvl/gausstr)**|
+|**2024-12-17**|**Real-time Free-view Human Rendering from Sparse-view RGB Videos using Double Unprojected Textures**|Guoxing Sun et.al.|[2412.13183](http://arxiv.org/abs/2412.13183)|null|
+|**2024-12-17**|**NFL-BA: Improving Endoscopic SLAM with Near-Field Light Bundle Adjustment**|Andrea Dunn Beltran et.al.|[2412.13176](http://arxiv.org/abs/2412.13176)|null|
+|**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047](http://arxiv.org/abs/2412.13047)|null|
+|**2024-12-17**|**4DRGS: 4D Radiative Gaussian Splatting for Efficient 3D Vessel Reconstruction from Sparse-View Dynamic DSA Images**|Zhentao Liu et.al.|[2412.12919](http://arxiv.org/abs/2412.12919)|null|
+|**2024-12-17**|**CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from A Single-View Image**|Wonseok Roh et.al.|[2412.12906](http://arxiv.org/abs/2412.12906)|null|
+|**2024-12-17**|**HyperGS: Hyperspectral 3D Gaussian Splatting**|Christopher Thirgood et.al.|[2412.12849](http://arxiv.org/abs/2412.12849)|null|
+|**2024-12-17**|**Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772](http://arxiv.org/abs/2412.12772)|null|
+|**2024-12-17**|**Gaussian Billboards: Expressive 2D Gaussian Splatting with Textures**|Sebastian Weiss et.al.|[2412.12734](http://arxiv.org/abs/2412.12734)|null|
+|**2024-12-17**|**3DGUT: Enabling Distorted Cameras and Secondary Rays in Gaussian Splatting**|Qi Wu et.al.|[2412.12507](http://arxiv.org/abs/2412.12507)|null|
 |**2024-12-16**|**PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting**|Cheng Zhang et.al.|[2412.12096](http://arxiv.org/abs/2412.12096)|null|
 |**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091](http://arxiv.org/abs/2412.12091)|null|
 |**2024-12-16**|**GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**|Qingyue Deng et.al.|[2412.11762](http://arxiv.org/abs/2412.11762)|null|
