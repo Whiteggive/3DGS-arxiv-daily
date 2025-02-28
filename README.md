@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|null|
 |**2025-02-26**|**The NeRF Signature: Codebook-Aided Watermarking for Neural Radiance Fields**|Ziyuan Luo et.al.|[2502.19125](http://arxiv.org/abs/2502.19125)|null|
 |**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
-|**2025-02-25**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860](http://arxiv.org/abs/2502.17860)|null|
+|**2025-02-27**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860](http://arxiv.org/abs/2502.17860)|null|
 |**2025-02-24**|**Laplace-Beltrami Operator for Gaussian Splatting**|Hongyu Zhou et.al.|[2502.17531](http://arxiv.org/abs/2502.17531)|null|
 |**2025-02-24**|**Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting**|Chong Cheng et.al.|[2502.17377](http://arxiv.org/abs/2502.17377)|null|
 |**2025-02-25**|**GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow**|Simon Boeder et.al.|[2502.17288](http://arxiv.org/abs/2502.17288)|null|
@@ -1475,7 +1475,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250228>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
