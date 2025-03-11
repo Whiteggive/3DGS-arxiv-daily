@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2025-03-07**|**Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects**|Justin Yu et.al.|[2503.05189](http://arxiv.org/abs/2503.05189)|null|
 |**2025-03-07**|**MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions**|Qingyuan Zhou et.al.|[2503.05182](http://arxiv.org/abs/2503.05182)|null|
 |**2025-03-07**|**SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting**|Linqi Yang et.al.|[2503.05174](http://arxiv.org/abs/2503.05174)|null|
-|**2025-03-07**|**SeeLe: A Unified Acceleration Framework for Real-Time Gaussian Splatting**|Xiaotong Huang et.al.|[2503.05168](http://arxiv.org/abs/2503.05168)|null|
+|**2025-03-10**|**SeeLe: A Unified Acceleration Framework for Real-Time Gaussian Splatting**|Xiaotong Huang et.al.|[2503.05168](http://arxiv.org/abs/2503.05168)|null|
 |**2025-03-06**|**GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting**|Inseo Lee et.al.|[2503.04333](http://arxiv.org/abs/2503.04333)|null|
 |**2025-03-06**|**S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting**|Yecong Wan et.al.|[2503.04314](http://arxiv.org/abs/2503.04314)|null|
 |**2025-03-06**|**Instrument-Splatting: Controllable Photorealistic Reconstruction of Surgical Instruments Using Gaussian Splatting**|Shuojue Yang et.al.|[2503.04082](http://arxiv.org/abs/2503.04082)|null|
@@ -1515,7 +1515,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

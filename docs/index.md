@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
@@ -23,7 +23,7 @@ layout: default
 |**2025-03-07**|**Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects**|Justin Yu et.al.|[2503.05189](http://arxiv.org/abs/2503.05189)|null|
 |**2025-03-07**|**MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions**|Qingyuan Zhou et.al.|[2503.05182](http://arxiv.org/abs/2503.05182)|null|
 |**2025-03-07**|**SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting**|Linqi Yang et.al.|[2503.05174](http://arxiv.org/abs/2503.05174)|null|
-|**2025-03-07**|**SeeLe: A Unified Acceleration Framework for Real-Time Gaussian Splatting**|Xiaotong Huang et.al.|[2503.05168](http://arxiv.org/abs/2503.05168)|null|
+|**2025-03-10**|**SeeLe: A Unified Acceleration Framework for Real-Time Gaussian Splatting**|Xiaotong Huang et.al.|[2503.05168](http://arxiv.org/abs/2503.05168)|null|
 |**2025-03-06**|**GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting**|Inseo Lee et.al.|[2503.04333](http://arxiv.org/abs/2503.04333)|null|
 |**2025-03-06**|**S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting**|Yecong Wan et.al.|[2503.04314](http://arxiv.org/abs/2503.04314)|null|
 |**2025-03-06**|**Instrument-Splatting: Controllable Photorealistic Reconstruction of Surgical Instruments Using Gaussian Splatting**|Shuojue Yang et.al.|[2503.04082](http://arxiv.org/abs/2503.04082)|null|
