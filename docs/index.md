@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Exploiting Radiance Fields for Grasp Generation on Novel Synthetic Views**|Abhishek Kashyap et.al.|[2505.11467](http://arxiv.org/abs/2505.11467)|null|
+|**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
+|**2025-05-16**|**GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats**|Simeon Adebola et.al.|[2505.10923](http://arxiv.org/abs/2505.10923)|null|
+|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
+|**2025-05-15**|**GaussianFormer3D: Multi-Modal Gaussian-based Semantic Occupancy Prediction with 3D Deformable Attention**|Lingjun Zhao et.al.|[2505.10685](http://arxiv.org/abs/2505.10685)|null|
 |**2025-05-15**|**Consistent Quantity-Quality Control across Scenes for Deployment-Aware Gaussian Splatting**|Fengdi Zhang et.al.|[2505.10473](http://arxiv.org/abs/2505.10473)|null|
 |**2025-05-15**|**VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality**|Xuechang Tu et.al.|[2505.10144](http://arxiv.org/abs/2505.10144)|**[link](https://github.com/cekavis/vrsplat)**|
 |**2025-05-15**|**ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars**|Rui-Yang Ju et.al.|[2505.10072](http://arxiv.org/abs/2505.10072)|null|
