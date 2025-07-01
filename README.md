@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2025-06-26**|**SAM4D: Segment Anything in Camera and LiDAR Streams**|Jianyun Xu et.al.|[2506.21547](http://arxiv.org/abs/2506.21547)|null|
 |**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[2506.21520](http://arxiv.org/abs/2506.21520)|null|
 |**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420](http://arxiv.org/abs/2506.21420)|null|
-|**2025-06-26**|**Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction**|Zhirui Gao. Renjiao Yi et.al.|[2506.21401](http://arxiv.org/abs/2506.21401)|null|
+|**2025-06-28**|**Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction**|Zhirui Gao et.al.|[2506.21401](http://arxiv.org/abs/2506.21401)|null|
 |**2025-06-26**|**Geometry and Perception Guided Gaussians for Multiview-consistent 3D Generation from a Single Image**|Pufan Li et.al.|[2506.21152](http://arxiv.org/abs/2506.21152)|null|
 |**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
 |**2025-06-26**|**User-in-the-Loop View Sampling with Error Peaking Visualization**|Ayaka Yasunaga et.al.|[2506.21009](http://arxiv.org/abs/2506.21009)|null|
@@ -2022,7 +2022,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
