@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004](http://arxiv.org/abs/2507.04004)|null|
 |**2025-07-05**|**ArmGS: Composite Gaussian Appearance Refinement for Modeling Dynamic Urban Environments**|Guile Wu et.al.|[2507.03886](http://arxiv.org/abs/2507.03886)|null|
 |**2025-07-04**|**Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps**|Chong Cheng et.al.|[2507.03737](http://arxiv.org/abs/2507.03737)|null|
-|**2025-07-03**|**HyperGaussians: High-Dimensional Gaussian Splatting for High-Fidelity Animatable Face Avatars**|Gent Serifi et.al.|[2507.02803](http://arxiv.org/abs/2507.02803)|null|
+|**2025-07-08**|**HyperGaussians: High-Dimensional Gaussian Splatting for High-Fidelity Animatable Face Avatars**|Gent Serifi et.al.|[2507.02803](http://arxiv.org/abs/2507.02803)|null|
 |**2025-07-03**|**ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects**|Qiaojun Yu et.al.|[2507.02600](http://arxiv.org/abs/2507.02600)|null|
 |**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565](http://arxiv.org/abs/2507.02565)|null|
 |**2025-07-07**|**AvatarMakeup: Realistic Makeup Transfer for 3D Animatable Head Avatars**|Yiming Zhong et.al.|[2507.02419](http://arxiv.org/abs/2507.02419)|null|
@@ -2056,7 +2056,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
