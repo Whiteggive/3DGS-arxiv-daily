@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.18
+## Updated on 2026.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**IDDR-NGP: Incorporating Detectors for Distractor Removal with Instant Neural Radiance Field**|Xianliang Huang et.al.|[2601.11030](http://arxiv.org/abs/2601.11030)|null|
 |**2026-01-15**|**RSATalker: Realistic Socially-Aware Talking Head Generation for Multi-Turn Conversation**|Peng Chen et.al.|[2601.10606](http://arxiv.org/abs/2601.10606)|null|
 |**2026-01-15**|**Thinking Like Van Gogh: Structure-Aware Style Transfer via Flow-Guided 3D Gaussian Splatting**|Zhendong Wang et.al.|[2601.10075](http://arxiv.org/abs/2601.10075)|null|
 |**2026-01-14**|**V-DPM: 4D Video Reconstruction with Dynamic Point Maps**|Edgar Sucar et.al.|[2601.09499](http://arxiv.org/abs/2601.09499)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.01.18
+## Updated on 2026.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**IDDR-NGP: Incorporating Detectors for Distractor Removal with Instant Neural Radiance Field**|Xianliang Huang et.al.|[2601.11030](http://arxiv.org/abs/2601.11030)|null|
 |**2026-01-15**|**RSATalker: Realistic Socially-Aware Talking Head Generation for Multi-Turn Conversation**|Peng Chen et.al.|[2601.10606](http://arxiv.org/abs/2601.10606)|null|
 |**2026-01-15**|**Thinking Like Van Gogh: Structure-Aware Style Transfer via Flow-Guided 3D Gaussian Splatting**|Zhendong Wang et.al.|[2601.10075](http://arxiv.org/abs/2601.10075)|null|
 |**2026-01-14**|**V-DPM: 4D Video Reconstruction with Dynamic Point Maps**|Edgar Sucar et.al.|[2601.09499](http://arxiv.org/abs/2601.09499)|null|
@@ -2421,7 +2422,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
