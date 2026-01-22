@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.01.21
+## Updated on 2026.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**ScenDi: 3D-to-2D Scene Diffusion Cascades for Urban Generation**|Hanlei Guo et.al.|[2601.15221](http://arxiv.org/abs/2601.15221)|null|
+|**2026-01-21**|**GAT-NeRF: Geometry-Aware-Transformer Enhanced Neural Radiance Fields for High-Fidelity 4D Facial Avatars**|Zhe Chang et.al.|[2601.14875](http://arxiv.org/abs/2601.14875)|null|
+|**2026-01-21**|**CAG-Avatar: Cross-Attention Guided Gaussian Avatars for High-Fidelity Head Reconstruction**|Zhe Chang et.al.|[2601.14844](http://arxiv.org/abs/2601.14844)|null|
+|**2026-01-21**|**POTR: Post-Training 3DGS Compression**|Bert Ramlot et.al.|[2601.14821](http://arxiv.org/abs/2601.14821)|null|
+|**2026-01-21**|**LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models**|Mingyang Xie et.al.|[2601.14674](http://arxiv.org/abs/2601.14674)|null|
+|**2026-01-20**|**Structured Image-based Coding for Efficient Gaussian Splatting Compression**|Pedro Martin et.al.|[2601.14510](http://arxiv.org/abs/2601.14510)|null|
+|**2026-01-20**|**Gaussian Based Adaptive Multi-Modal 3D Semantic Occupancy Prediction**|A. Enes Doruk et.al.|[2601.14448](http://arxiv.org/abs/2601.14448)|null|
 |**2026-01-20**|**Rig-Aware 3D Reconstruction of Vehicle Undercarriages using Gaussian Splatting**|Nitin Kulkarni et.al.|[2601.14208](http://arxiv.org/abs/2601.14208)|null|
 |**2026-01-20**|**One-Shot Refiner: Boosting Feed-forward Novel View Synthesis via One-Step Diffusion**|Yitong Dong et.al.|[2601.14161](http://arxiv.org/abs/2601.14161)|null|
 |**2026-01-20**|**FastGHA: Generalized Few-Shot 3D Gaussian Head Avatars with Real-Time Animation**|Xinya Ji et.al.|[2601.13837](http://arxiv.org/abs/2601.13837)|null|
