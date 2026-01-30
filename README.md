@@ -1,4 +1,4 @@
-## Updated on 2026.01.29
+## Updated on 2026.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**From Implicit Ambiguity to Explicit Solidity: Diagnosing Interior Geometric Degradation in Neural Radiance Fields for Dense 3D Scene Understanding**|Jiangsan Zhao et.al.|[2601.21421](http://arxiv.org/abs/2601.21421)|null|
+|**2026-01-29**|**Lightweight High-Fidelity Low-Bitrate Talking Face Compression for 3D Video Conference**|Jianglong Li et.al.|[2601.21269](http://arxiv.org/abs/2601.21269)|null|
 |**2026-01-28**|**FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models**|Hongyu Zhou et.al.|[2601.20857](http://arxiv.org/abs/2601.20857)|null|
 |**2026-01-28**|**GRTX: Efficient Ray Tracing for 3D Gaussian-Based Rendering**|Junseo Lee et.al.|[2601.20429](http://arxiv.org/abs/2601.20429)|null|
 |**2026-01-28**|**GVGS: Gaussian Visibility-Aware Multi-View Geometry for Accurate Surface Reconstruction**|Mai Su et.al.|[2601.20331](http://arxiv.org/abs/2601.20331)|null|
@@ -2476,7 +2478,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
