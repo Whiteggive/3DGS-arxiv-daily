@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-01**|**Split&Splat: Zero-Shot Panoptic Segmentation via Explicit Instance Modeling and 3D Gaussian Splatting**|Leonardo Monchieri et.al.|[2602.03809](http://arxiv.org/abs/2602.03809)|null|
+|**2026-02-03**|**Constrained Dynamic Gaussian Splatting**|Zihan Zheng et.al.|[2602.03538](http://arxiv.org/abs/2602.03538)|null|
 |**2026-02-03**|**Pi-GS: Sparse-View Gaussian Splatting with Dense π^3 Initialization**|Manuel Hofer et.al.|[2602.03327](http://arxiv.org/abs/2602.03327)|null|
 |**2026-02-03**|**WebSplatter: Enabling Cross-Device Efficient Gaussian Splatting in Web Browsers via WebGPU**|Yudong Han et.al.|[2602.03207](http://arxiv.org/abs/2602.03207)|null|
 |**2026-02-03**|**SharpTimeGS: Sharp and Stable Dynamic Gaussian Splatting via Lifespan Modulation**|Zhanfeng Liao et.al.|[2602.02989](http://arxiv.org/abs/2602.02989)|null|
