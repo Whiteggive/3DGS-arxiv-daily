@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.02.11
+## Updated on 2026.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Towards Learning a Generalizable 3D Scene Representation from 2D Observations**|Martin Gromniak et.al.|[2602.10943](http://arxiv.org/abs/2602.10943)|null|
+|**2026-02-10**|**ERGO: Excess-Risk-Guided Optimization for High-Fidelity Monocular 3D Gaussian Splatting**|Zehua Ma et.al.|[2602.10278](http://arxiv.org/abs/2602.10278)|null|
+|**2026-02-10**|**XSPLAIN: XAI-enabling Splat-based Prototype Learning for Attribute-aware INterpretability**|Dominik Galus et.al.|[2602.10239](http://arxiv.org/abs/2602.10239)|null|
+|**2026-02-10**|**ArtisanGS: Interactive Tools for Gaussian Splat Selection with AI and Human in the Loop**|Clement Fuji Tsang et.al.|[2602.10173](http://arxiv.org/abs/2602.10173)|null|
 |**2026-02-10**|**4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere**|Yihang Luo et.al.|[2602.10094](http://arxiv.org/abs/2602.10094)|null|
 |**2026-02-10**|**Faster-GS: Analyzing and Improving Gaussian Splatting Optimization**|Florian Hahlbohm et.al.|[2602.09999](http://arxiv.org/abs/2602.09999)|null|
 |**2026-02-10**|**CompSplat: Compression-aware 3D Gaussian Splatting for Real-world Video**|Hojun Song et.al.|[2602.09816](http://arxiv.org/abs/2602.09816)|null|
@@ -22,7 +26,7 @@ layout: default
 |**2026-02-09**|**Informative Object-centric Next Best View for Object-aware 3D Gaussian Splatting in Cluttered Scenes**|Seunghoon Jeong et.al.|[2602.08266](http://arxiv.org/abs/2602.08266)|null|
 |**2026-02-08**|**Deepfake Synthesis vs. Detection: An Uneven Contest**|Md. Tarek Hasan et.al.|[2602.07986](http://arxiv.org/abs/2602.07986)|null|
 |**2026-02-08**|**Scalable Adaptation of 3D Geometric Foundation Models via Weak Supervision from Internet Video**|Zihui Gao et.al.|[2602.07891](http://arxiv.org/abs/2602.07891)|null|
-|**2026-02-07**|**Thermal odometry and dense mapping using learned ddometry and Gaussian splatting**|Tianhao Zhou et.al.|[2602.07493](http://arxiv.org/abs/2602.07493)|null|
+|**2026-02-11**|**Thermal odometry and dense mapping using learned odometry and Gaussian splatting**|Tianhao Zhou et.al.|[2602.07493](http://arxiv.org/abs/2602.07493)|null|
 |**2026-02-06**|**Zero-Shot UAV Navigation in Forests via Relightable 3D Gaussian Splatting**|Zinan Lv et.al.|[2602.07101](http://arxiv.org/abs/2602.07101)|null|
 |**2026-02-06**|**DynFOA: Generating First-Order Ambisonics with Conditional Diffusion for Dynamic and Acoustically Complex 360-Degree Videos**|Ziyu Luo et.al.|[2602.06846](http://arxiv.org/abs/2602.06846)|null|
 |**2026-02-06**|**GaussianPOP: Principled Simplification Framework for Compact 3D Gaussian Splatting via Error Quantification**|Soonbin Lee et.al.|[2602.06830](http://arxiv.org/abs/2602.06830)|null|
@@ -30,7 +34,7 @@ layout: default
 |**2026-02-06**|**TFusionOcc: Student's t-Distribution Based Object-Centric Multi-Sensor Fusion Framework for 3D Occupancy Prediction**|Zhenxing Ming et.al.|[2602.06400](http://arxiv.org/abs/2602.06400)|null|
 |**2026-02-06**|**Uncertainty-Aware 4D Gaussian Splatting for Monocular Occluded Human Rendering**|Weiquan Wang et.al.|[2602.06343](http://arxiv.org/abs/2602.06343)|null|
 |**2026-02-05**|**From Blurry to Believable: Enhancing Low-quality Talking Heads with 3D Generative Priors**|Ding-Jiun Huang et.al.|[2602.06122](http://arxiv.org/abs/2602.06122)|null|
-|**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
+|**2026-02-11**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
 |**2026-02-05**|**NVS-HO: A Benchmark for Novel View Synthesis of Handheld Objects**|Musawar Ali et.al.|[2602.05822](http://arxiv.org/abs/2602.05822)|null|
 |**2026-02-05**|**Unified Sensor Simulation for Autonomous Driving**|Nikolay Patakin et.al.|[2602.05617](http://arxiv.org/abs/2602.05617)|null|
 |**2026-02-05**|**NeVStereo: A NeRF-Driven NVS-Stereo Architecture for High-Fidelity 3D Tasks**|Pengcheng Chen et.al.|[2602.05423](http://arxiv.org/abs/2602.05423)|null|
