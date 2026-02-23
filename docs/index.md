@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.22
+## Updated on 2026.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Unifying Color and Lightness Correction with View-Adaptive Curve Adjustment for Robust 3D Novel View Synthesis**|Ziteng Cui et.al.|[2602.18322](http://arxiv.org/abs/2602.18322)|null|
+|**2026-02-20**|**Diff2DGS: Reliable Reconstruction of Occluded Surgical Scenes via 2D Gaussian Splatting**|Tianyi Song et.al.|[2602.18314](http://arxiv.org/abs/2602.18314)|null|
 |**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473](http://arxiv.org/abs/2602.17473)|null|
 |**2026-02-19**|**NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting**|Jiwei Shan et.al.|[2602.17182](http://arxiv.org/abs/2602.17182)|null|
 |**2026-02-19**|**B $^3$ -Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates**|Hiromichi Kamata et.al.|[2602.17134](http://arxiv.org/abs/2602.17134)|null|
