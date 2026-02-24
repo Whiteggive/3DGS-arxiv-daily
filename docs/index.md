@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**DefenseSplat: Enhancing the Robustness of 3D Gaussian Splatting via Frequency-Aware Filtering**|Yiran Qiao et.al.|[2602.19323](http://arxiv.org/abs/2602.19323)|null|
+|**2026-02-21**|**PhysConvex: Physics-Informed 3D Dynamic Convex Radiance Fields for Reconstruction and Simulation**|Dan Wang et.al.|[2602.18886](http://arxiv.org/abs/2602.18886)|null|
+|**2026-02-21**|**Spatial-Temporal State Propagation Autoregressive Model for 4D Object Generation**|Liying Yang et.al.|[2602.18830](http://arxiv.org/abs/2602.18830)|null|
 |**2026-02-20**|**Unifying Color and Lightness Correction with View-Adaptive Curve Adjustment for Robust 3D Novel View Synthesis**|Ziteng Cui et.al.|[2602.18322](http://arxiv.org/abs/2602.18322)|null|
 |**2026-02-20**|**Diff2DGS: Reliable Reconstruction of Occluded Surgical Scenes via 2D Gaussian Splatting**|Tianyi Song et.al.|[2602.18314](http://arxiv.org/abs/2602.18314)|null|
 |**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473](http://arxiv.org/abs/2602.17473)|null|
