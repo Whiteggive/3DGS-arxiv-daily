@@ -1,4 +1,4 @@
-## Updated on 2026.02.25
+## Updated on 2026.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Interactive Augmented Reality-enabled Outdoor Scene Visualization For Enhanced Real-time Disaster Response**|Dimitrios Apostolakis et.al.|[2602.21874](http://arxiv.org/abs/2602.21874)|null|
+|**2026-02-25**|**Space-Time Forecasting of Dynamic Scenes with Motion-aware Gaussian Grouping**|Junmyeong Lee et.al.|[2602.21668](http://arxiv.org/abs/2602.21668)|null|
+|**2026-02-25**|**DAGS-SLAM: Dynamic-Aware 3DGS SLAM via Spatiotemporal Motion Probability and Uncertainty-Aware Scheduling**|Li Zhang et.al.|[2602.21644](http://arxiv.org/abs/2602.21644)|null|
+|**2026-02-24**|**HorizonForge: Driving Scene Editing with Any Trajectories and Any Vehicles**|Yifan Wang et.al.|[2602.21333](http://arxiv.org/abs/2602.21333)|null|
 |**2026-02-24**|**BrepGaussian: CAD reconstruction from Multi-View Images with Gaussian Splatting**|Jiaxing Yu et.al.|[2602.21105](http://arxiv.org/abs/2602.21105)|null|
 |**2026-02-24**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|null|
 |**2026-02-24**|**UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling**|Kaiyuan Tan et.al.|[2602.20943](http://arxiv.org/abs/2602.20943)|null|
@@ -2596,7 +2600,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.02.25
+## Updated on 2026.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Interactive Augmented Reality-enabled Outdoor Scene Visualization For Enhanced Real-time Disaster Response**|Dimitrios Apostolakis et.al.|[2602.21874](http://arxiv.org/abs/2602.21874)|null|
+|**2026-02-25**|**Space-Time Forecasting of Dynamic Scenes with Motion-aware Gaussian Grouping**|Junmyeong Lee et.al.|[2602.21668](http://arxiv.org/abs/2602.21668)|null|
+|**2026-02-25**|**DAGS-SLAM: Dynamic-Aware 3DGS SLAM via Spatiotemporal Motion Probability and Uncertainty-Aware Scheduling**|Li Zhang et.al.|[2602.21644](http://arxiv.org/abs/2602.21644)|null|
+|**2026-02-24**|**HorizonForge: Driving Scene Editing with Any Trajectories and Any Vehicles**|Yifan Wang et.al.|[2602.21333](http://arxiv.org/abs/2602.21333)|null|
 |**2026-02-24**|**BrepGaussian: CAD reconstruction from Multi-View Images with Gaussian Splatting**|Jiaxing Yu et.al.|[2602.21105](http://arxiv.org/abs/2602.21105)|null|
 |**2026-02-24**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|null|
 |**2026-02-24**|**UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling**|Kaiyuan Tan et.al.|[2602.20943](http://arxiv.org/abs/2602.20943)|null|
