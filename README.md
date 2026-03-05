@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**LLM-supported 3D Modeling Tool for Radio Radiance Field Reconstruction**|Chengling Xu et.al.|[2603.04368](http://arxiv.org/abs/2603.04368)|null|
+|**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338](http://arxiv.org/abs/2603.04338)|null|
+|**2026-03-04**|**Gaussian Wardrobe: Compositional 3D Gaussian Avatars for Free-Form Virtual Try-On**|Zhiyi Chen et.al.|[2603.04290](http://arxiv.org/abs/2603.04290)|null|
+|**2026-03-04**|**EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding**|Seungjun Lee et.al.|[2603.04254](http://arxiv.org/abs/2603.04254)|null|
 |**2026-03-04**|**DM-CFO: A Diffusion Model for Compositional 3D Tooth Generation with Collision-Free Optimization**|Yan Tian et.al.|[2603.03602](http://arxiv.org/abs/2603.03602)|null|
 |**2026-03-03**|**VIRGi: View-dependent Instant Recoloring of 3D Gaussians Splats**|Alessio Mazzucchelli et.al.|[2603.02986](http://arxiv.org/abs/2603.02986)|null|
 |**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985](http://arxiv.org/abs/2603.02985)|null|
