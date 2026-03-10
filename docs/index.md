@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**ImprovedGS+: A High-Performance C++/CUDA Re-Implementation Strategy for 3D Gaussian Splatting**|Jordi Muñoz Vicente et.al.|[2603.08661](http://arxiv.org/abs/2603.08661)|null|
+|**2026-03-09**|**Spherical-GOF: Geometry-Aware Panoramic Gaussian Opacity Fields for 3D Scene Reconstruction**|Zhe Yang et.al.|[2603.08503](http://arxiv.org/abs/2603.08503)|null|
+|**2026-03-09**|**Improving Continual Learning for Gaussian Splatting based Environments Reconstruction on Commercial Off-the-Shelf Edge Devices**|Ivan Zaino et.al.|[2603.08499](http://arxiv.org/abs/2603.08499)|null|
+|**2026-03-09**|**HDR-NSFF: High Dynamic Range Neural Scene Flow Fields**|Shin Dong-Yeon et.al.|[2603.08313](http://arxiv.org/abs/2603.08313)|null|
+|**2026-03-09**|**DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving**|Zhuolin He et.al.|[2603.08254](http://arxiv.org/abs/2603.08254)|null|
 |**2026-03-09**|**Fast Low-light Enhancement and Deblurring for 3D Dark Scenes**|Feng Zhang et.al.|[2603.08133](http://arxiv.org/abs/2603.08133)|null|
 |**2026-03-08**|**SGI: Structured 2D Gaussians for Efficient and Compact Large Image Representation**|Zixuan Pan et.al.|[2603.07789](http://arxiv.org/abs/2603.07789)|null|
 |**2026-03-08**|**Ref-DGS: Reflective Dual Gaussian Splatting**|Ningjing Fan et.al.|[2603.07664](http://arxiv.org/abs/2603.07664)|null|
