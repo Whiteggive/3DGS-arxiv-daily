@@ -1,4 +1,4 @@
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,10 +12,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors**|Aymen Mir et.al.|[2603.17975](http://arxiv.org/abs/2603.17975)|null|
+|**2026-03-18**|**CrowdGaussian: Reconstructing High-Fidelity 3D Gaussians for Human Crowd from a Single Image**|Yizheng Song et.al.|[2603.17779](http://arxiv.org/abs/2603.17779)|null|
+|**2026-03-18**|**TAPESTRY: From Geometry to Appearance via Consistent Turntable Videos**|Yan Zeng et.al.|[2603.17735](http://arxiv.org/abs/2603.17735)|null|
+|**2026-03-18**|**ReLaGS: Relational Language Gaussian Splatting**|Yaxu Xie et.al.|[2603.17605](http://arxiv.org/abs/2603.17605)|null|
+|**2026-03-18**|**UniSem: Generalizable Semantic 3D Reconstruction from Sparse Unposed Images**|Guibiao Liao et.al.|[2603.17519](http://arxiv.org/abs/2603.17519)|null|
+|**2026-03-18**|**A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**|Xiucheng Wang et.al.|[2603.17499](http://arxiv.org/abs/2603.17499)|null|
+|**2026-03-18**|**Neural Radiance Maps for Extraterrestrial Navigation and Path Planning**|Adam Dai et.al.|[2603.17236](http://arxiv.org/abs/2603.17236)|null|
+|**2026-03-18**|**Adaptive Anchor Policies for Efficient 4D Gaussian Streaming**|Ashim Dahal et.al.|[2603.17227](http://arxiv.org/abs/2603.17227)|null|
+|**2026-03-17**|**SMAL-pets: SMAL Based Avatars of Pets from Single Image**|Piotr Borycki et.al.|[2603.17131](http://arxiv.org/abs/2603.17131)|null|
+|**2026-03-16**|**KGS-GCN: Enhancing Sparse Skeleton Sensing via Kinematics-Driven Gaussian Splatting and Probabilistic Topology for Action Recognition**|Yuhan Chen et.al.|[2603.16943](http://arxiv.org/abs/2603.16943)|null|
 |**2026-03-17**|**M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM**|Kerui Ren et.al.|[2603.16844](http://arxiv.org/abs/2603.16844)|null|
 |**2026-03-17**|**Rethinking Pose Refinement in 3D Gaussian Splatting under Pose Prior and Geometric Uncertainty**|Mangyu Kong et.al.|[2603.16538](http://arxiv.org/abs/2603.16538)|null|
 |**2026-03-17**|**ProgressiveAvatars: Progressive Animatable 3D Gaussian Avatars**|Kaiwen Song et.al.|[2603.16447](http://arxiv.org/abs/2603.16447)|null|
-|**2026-03-17**|**OGScene3D: Incremental Open-Vocabulary 3D Gaussian Scene Graph Mapping for Scene Understanding**|Siting Zhu et.al.|[2603.16301](http://arxiv.org/abs/2603.16301)|null|
+|**2026-03-18**|**OGScene3D: Incremental Open-Vocabulary 3D Gaussian Scene Graph Mapping for Scene Understanding**|Siting Zhu et.al.|[2603.16301](http://arxiv.org/abs/2603.16301)|null|
 |**2026-03-17**|**Leveling3D: Leveling Up 3D Reconstruction with Feed-Forward 3D Gaussian Splatting and Geometry-Aware Generation**|Yiming Huang et.al.|[2603.16211](http://arxiv.org/abs/2603.16211)|null|
 |**2026-03-17**|**NanoGS: Training-Free Gaussian Splat Simplification**|Butian Xiong et.al.|[2603.16103](http://arxiv.org/abs/2603.16103)|null|
 |**2026-03-16**|**Feed-forward Gaussian Registration for Head Avatar Creation and Editing**|Malte Prinzler et.al.|[2603.15811](http://arxiv.org/abs/2603.15811)|null|
@@ -42,7 +52,7 @@
 |**2026-03-12**|**Radio Radiance Field: The New Frontier of Spatial Wireless Channel Representation**|Haijian Sun et.al.|[2603.11588](http://arxiv.org/abs/2603.11588)|null|
 |**2026-03-12**|**Mango-GS: Enhancing Spatio-Temporal Consistency in Dynamic Scenes Reconstruction using Multi-Frame Node-Guided 4D Gaussian Splatting**|Tingxuan Huang et.al.|[2603.11543](http://arxiv.org/abs/2603.11543)|null|
 |**2026-03-12**|**Mobile-GS: Real-time Gaussian Splatting for Mobile Devices**|Xiaobiao Du et.al.|[2603.11531](http://arxiv.org/abs/2603.11531)|null|
-|**2026-03-11**|**InstantHDR: Single-forward Gaussian Splatting for High Dynamic Range 3D Reconstruction**|Dingqiang Ye et.al.|[2603.11298](http://arxiv.org/abs/2603.11298)|null|
+|**2026-03-17**|**InstantHDR: Single-forward Gaussian Splatting for High Dynamic Range 3D Reconstruction**|Dingqiang Ye et.al.|[2603.11298](http://arxiv.org/abs/2603.11298)|null|
 |**2026-03-11**|**Senna-2: Aligning VLM and End-to-End Driving Policy for Consistent Decision Making and Planning**|Yuehao Song et.al.|[2603.11219](http://arxiv.org/abs/2603.11219)|null|
 |**2026-03-11**|**S2D: Sparse to Dense Lifting for 3D Reconstruction with Minimal Inputs**|Yuzhou Ji et.al.|[2603.10893](http://arxiv.org/abs/2603.10893)|null|
 |**2026-03-11**|**PolGS++: Physically-Guided Polarimetric Gaussian Splatting for Fast Reflective Surface Reconstruction**|Yufei Han et.al.|[2603.10801](http://arxiv.org/abs/2603.10801)|null|
@@ -2728,7 +2738,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
