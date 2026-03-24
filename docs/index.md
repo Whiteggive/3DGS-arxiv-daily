@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**FreeArtGS: Articulated Gaussian Splatting Under Free-moving Scenario**|Hang Dai et.al.|[2603.22102](http://arxiv.org/abs/2603.22102)|null|
+|**2026-03-23**|**GTSR: Subsurface Scattering Awared 3D Gaussians for Translucent Surface Reconstruction**|Youwen Yuan et.al.|[2603.22036](http://arxiv.org/abs/2603.22036)|null|
 |**2026-03-23**|**Fast undersampled dynamic MRI reconstruction using explicit representation learning with Gaussian splatting**|M. L. Terpstra et.al.|[2603.21980](http://arxiv.org/abs/2603.21980)|null|
 |**2026-03-23**|**Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment**|Roy Amoyal et.al.|[2603.21936](http://arxiv.org/abs/2603.21936)|null|
 |**2026-03-23**|**Camera-Agnostic Pruning of 3D Gaussian Splats via Descriptor-Based Beta Evidence**|Peter Fasogbon et.al.|[2603.21933](http://arxiv.org/abs/2603.21933)|null|
