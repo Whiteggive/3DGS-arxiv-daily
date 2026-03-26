@@ -1,4 +1,4 @@
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**SpectralSplats: Robust Differentiable Tracking via Spectral Moment Supervision**|Avigail Cohen Rimon et.al.|[2603.24036](http://arxiv.org/abs/2603.24036)|null|
+|**2026-03-25**|**FilterGS: Traversal-Free Parallel Filtering and Adaptive Shrinking for Large-Scale LoD 3D Gaussian Splatting**|Yixian Wang et.al.|[2603.23891](http://arxiv.org/abs/2603.23891)|null|
+|**2026-03-24**|**AdvSplat: Adversarial Attacks on Feed-Forward Gaussian Splatting Models**|Yiran Qiao et.al.|[2603.23686](http://arxiv.org/abs/2603.23686)|null|
+|**2026-03-24**|**Stochastic Ray Tracing for the Reconstruction of 3D Gaussian Splatting**|Peiyu Xu et.al.|[2603.23637](http://arxiv.org/abs/2603.23637)|null|
 |**2026-03-24**|**FHAvatar: Fast and High-Fidelity Reconstruction of Face-and-Hair Composable 3D Head Avatar from Few Casual Captures**|Yujie Sun et.al.|[2603.23345](http://arxiv.org/abs/2603.23345)|null|
 |**2026-03-24**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324](http://arxiv.org/abs/2603.23324)|null|
 |**2026-03-23**|**Drop-In Perceptual Optimization for 3D Gaussian Splatting**|Ezgi Ozyilkan et.al.|[2603.23297](http://arxiv.org/abs/2603.23297)|null|
@@ -20,7 +24,7 @@
 |**2026-03-24**|**Gau-Occ: Geometry-Completed Gaussians for Multi-Modal 3D Occupancy Prediction**|Chengxin Lv et.al.|[2603.22852](http://arxiv.org/abs/2603.22852)|null|
 |**2026-03-24**|**UniQueR: Unified Query-based Feedforward 3D Reconstruction**|Chensheng Peng et.al.|[2603.22851](http://arxiv.org/abs/2603.22851)|null|
 |**2026-03-24**|**PhotoAgent: A Robotic Photographer with Spatial and Aesthetic Understanding**|Lirong Che et.al.|[2603.22796](http://arxiv.org/abs/2603.22796)|null|
-|**2026-03-24**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792](http://arxiv.org/abs/2603.22792)|null|
+|**2026-03-25**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792](http://arxiv.org/abs/2603.22792)|null|
 |**2026-03-24**|**Predictive Photometric Uncertainty in Gaussian Splatting for Novel View Synthesis**|Chamuditha Jayanga Galappaththige et.al.|[2603.22786](http://arxiv.org/abs/2603.22786)|null|
 |**2026-03-23**|**FullCircle: Effortless 3D Reconstruction from Casual 360 $^\circ$ Captures**|Yalda Foroutan et.al.|[2603.22572](http://arxiv.org/abs/2603.22572)|null|
 |**2026-03-23**|**FreeArtGS: Articulated Gaussian Splatting Under Free-moving Scenario**|Hang Dai et.al.|[2603.22102](http://arxiv.org/abs/2603.22102)|null|
@@ -31,7 +35,7 @@
 |**2026-03-23**|**RefracGS: Novel View Synthesis Through Refractive Water Surfaces with 3D Gaussian Ray Tracing**|Yiming Shao et.al.|[2603.21695](http://arxiv.org/abs/2603.21695)|null|
 |**2026-03-23**|**4DGS360: 360° Gaussian Reconstruction of Dynamic Objects from a Single Video**|Jae Won Jang et.al.|[2603.21618](http://arxiv.org/abs/2603.21618)|null|
 |**2026-03-22**|**EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization**|Haolan Xu et.al.|[2603.21332](http://arxiv.org/abs/2603.21332)|null|
-|**2026-03-22**|**F4Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting**|Injae Kim et.al.|[2603.21304](http://arxiv.org/abs/2603.21304)|null|
+|**2026-03-25**|**F4Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting**|Injae Kim et.al.|[2603.21304](http://arxiv.org/abs/2603.21304)|null|
 |**2026-03-22**|**Training-Free Instance-Aware 3D Scene Reconstruction and Diffusion-Based View Synthesis from Sparse Images**|Jiatong Xia et.al.|[2603.21166](http://arxiv.org/abs/2603.21166)|null|
 |**2026-03-24**|**2Xplat: Two Experts Are Better Than One Generalist**|Hwasik Jeong et.al.|[2603.21064](http://arxiv.org/abs/2603.21064)|null|
 |**2026-03-22**|**SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM**|Pengchong Hu et.al.|[2603.21055](http://arxiv.org/abs/2603.21055)|null|
@@ -2783,7 +2787,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
