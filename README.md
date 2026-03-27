@@ -1,4 +1,4 @@
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,12 +12,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting**|Yixing Lao et.al.|[2603.25745](http://arxiv.org/abs/2603.25745)|null|
+|**2026-03-26**|**Accurate Surface and Reflectance Modelling from 3D Radar Data with Neural Radiance Fields**|Judith Treffler et.al.|[2603.25623](http://arxiv.org/abs/2603.25623)|null|
+|**2026-03-26**|**ViewSplat: View-Adaptive Dynamic Gaussian Splatting for Feed-Forward Synthesis**|Moonyeon Jeong et.al.|[2603.25265](http://arxiv.org/abs/2603.25265)|null|
+|**2026-03-26**|**AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting**|Minh-Quan Viet Bui et.al.|[2603.25129](http://arxiv.org/abs/2603.25129)|null|
+|**2026-03-26**|**Learning Explicit Continuous Motion Representation for Dynamic Gaussian Splatting from Monocular Videos**|Xuankai Zhang et.al.|[2603.25058](http://arxiv.org/abs/2603.25058)|null|
+|**2026-03-26**|**GaussFusion: Improving 3D Reconstruction in the Wild with A Geometry-Informed Video Generator**|Liyuan Zhu et.al.|[2603.25053](http://arxiv.org/abs/2603.25053)|null|
+|**2026-03-26**|**MoRGS: Efficient Per-Gaussian Motion Reasoning for Streamable Dynamic 3D Scenes**|Wonjoon Lee et.al.|[2603.25042](http://arxiv.org/abs/2603.25042)|null|
+|**2026-03-26**|**$π$ , But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation**|Johnathan Tucker et.al.|[2603.25038](http://arxiv.org/abs/2603.25038)|null|
+|**2026-03-26**|**Few TensoRF: Enhance the Few-shot on Tensorial Radiance Fields**|Thanh-Hai Le et.al.|[2603.25008](http://arxiv.org/abs/2603.25008)|null|
+|**2026-03-26**|**Relaxed Rigidity with Ray-based Grouping for Dynamic Gaussian Splatting**|Junoh Leea et.al.|[2603.24994](http://arxiv.org/abs/2603.24994)|null|
+|**2026-03-25**|**Confidence-Based Mesh Extraction from 3D Gaussians**|Lukas Radl et.al.|[2603.24725](http://arxiv.org/abs/2603.24725)|null|
+|**2026-03-25**|**Accurate Point Measurement in 3DGS -- A New Alternative to Traditional Stereoscopic-View Based Measurements**|Deyan Deng et.al.|[2603.24716](http://arxiv.org/abs/2603.24716)|null|
 |**2026-03-25**|**SpectralSplats: Robust Differentiable Tracking via Spectral Moment Supervision**|Avigail Cohen Rimon et.al.|[2603.24036](http://arxiv.org/abs/2603.24036)|null|
 |**2026-03-25**|**FilterGS: Traversal-Free Parallel Filtering and Adaptive Shrinking for Large-Scale LoD 3D Gaussian Splatting**|Yixian Wang et.al.|[2603.23891](http://arxiv.org/abs/2603.23891)|null|
 |**2026-03-24**|**AdvSplat: Adversarial Attacks on Feed-Forward Gaussian Splatting Models**|Yiran Qiao et.al.|[2603.23686](http://arxiv.org/abs/2603.23686)|null|
-|**2026-03-24**|**Stochastic Ray Tracing for the Reconstruction of 3D Gaussian Splatting**|Peiyu Xu et.al.|[2603.23637](http://arxiv.org/abs/2603.23637)|null|
+|**2026-03-26**|**Stochastic Ray Tracing for the Reconstruction of 3D Gaussian Splatting**|Peiyu Xu et.al.|[2603.23637](http://arxiv.org/abs/2603.23637)|null|
 |**2026-03-24**|**FHAvatar: Fast and High-Fidelity Reconstruction of Face-and-Hair Composable 3D Head Avatar from Few Casual Captures**|Yujie Sun et.al.|[2603.23345](http://arxiv.org/abs/2603.23345)|null|
-|**2026-03-24**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324](http://arxiv.org/abs/2603.23324)|null|
+|**2026-03-26**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324](http://arxiv.org/abs/2603.23324)|null|
 |**2026-03-23**|**Drop-In Perceptual Optimization for 3D Gaussian Splatting**|Ezgi Ozyilkan et.al.|[2603.23297](http://arxiv.org/abs/2603.23297)|null|
 |**2026-03-24**|**GTLR-GS: Geometry-Texture Aware LiDAR-Regularized 3D Gaussian Splatting for Realistic Scene Reconstruction**|Yan Fang et.al.|[2603.23192](http://arxiv.org/abs/2603.23192)|null|
 |**2026-03-24**|**GSwap: Realistic Head Swapping with Dynamic Neural Gaussian Field**|Jingtao Zhou et.al.|[2603.23168](http://arxiv.org/abs/2603.23168)|null|
@@ -30,7 +42,7 @@
 |**2026-03-23**|**FreeArtGS: Articulated Gaussian Splatting Under Free-moving Scenario**|Hang Dai et.al.|[2603.22102](http://arxiv.org/abs/2603.22102)|null|
 |**2026-03-23**|**GTSR: Subsurface Scattering Awared 3D Gaussians for Translucent Surface Reconstruction**|Youwen Yuan et.al.|[2603.22036](http://arxiv.org/abs/2603.22036)|null|
 |**2026-03-23**|**Fast undersampled dynamic MRI reconstruction using explicit representation learning with Gaussian splatting**|M. L. Terpstra et.al.|[2603.21980](http://arxiv.org/abs/2603.21980)|null|
-|**2026-03-23**|**Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment**|Roy Amoyal et.al.|[2603.21936](http://arxiv.org/abs/2603.21936)|null|
+|**2026-03-26**|**Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment**|Roy Amoyal et.al.|[2603.21936](http://arxiv.org/abs/2603.21936)|null|
 |**2026-03-23**|**Camera-Agnostic Pruning of 3D Gaussian Splats via Descriptor-Based Beta Evidence**|Peter Fasogbon et.al.|[2603.21933](http://arxiv.org/abs/2603.21933)|null|
 |**2026-03-23**|**RefracGS: Novel View Synthesis Through Refractive Water Surfaces with 3D Gaussian Ray Tracing**|Yiming Shao et.al.|[2603.21695](http://arxiv.org/abs/2603.21695)|null|
 |**2026-03-23**|**4DGS360: 360° Gaussian Reconstruction of Dynamic Objects from a Single Video**|Jae Won Jang et.al.|[2603.21618](http://arxiv.org/abs/2603.21618)|null|
@@ -49,7 +61,7 @@
 |**2026-03-20**|**Generalizable NGP-SR: Generalizable Neural Radiance Fields Super-Resolution via Neural Graph Primitives**|Wanqi Yuan et.al.|[2603.20128](http://arxiv.org/abs/2603.20128)|null|
 |**2026-03-20**|**Fourier Splatting: Generalized Fourier encoded primitives for scalable radiance fields**|Mihnea-Bogdan Jurca et.al.|[2603.19834](http://arxiv.org/abs/2603.19834)|null|
 |**2026-03-20**|**HUGE-Bench: A Benchmark for High-Level UAV Vision-Language-Action Tasks**|Jingyu Guo et.al.|[2603.19822](http://arxiv.org/abs/2603.19822)|null|
-|**2026-03-20**|**3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction**|Takeshi Noda et.al.|[2603.19682](http://arxiv.org/abs/2603.19682)|null|
+|**2026-03-26**|**3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction**|Takeshi Noda et.al.|[2603.19682](http://arxiv.org/abs/2603.19682)|null|
 |**2026-03-20**|**StreetForward: Perceiving Dynamic Street with Feedforward Causal Attention**|Zhongrui Yu et.al.|[2603.19552](http://arxiv.org/abs/2603.19552)|null|
 |**2026-03-20**|**Zero Shot Deformation Reconstruction for Soft Robots Using a Flexible Sensor Array and Cage Based 3D Gaussian Modeling**|Linrui Shou et.al.|[2603.19543](http://arxiv.org/abs/2603.19543)|null|
 |**2026-03-20**|**Matryoshka Gaussian Splatting**|Zhilin Guo et.al.|[2603.19234](http://arxiv.org/abs/2603.19234)|null|
@@ -2787,7 +2799,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
