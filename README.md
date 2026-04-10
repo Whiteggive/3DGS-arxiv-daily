@@ -1,4 +1,4 @@
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,12 +12,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Visually-grounded Humanoid Agents**|Hang Ye et.al.|[2604.08509](http://arxiv.org/abs/2604.08509)|null|
+|**2026-04-09**|**BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields**|Fan Yang et.al.|[2604.08410](http://arxiv.org/abs/2604.08410)|null|
+|**2026-04-09**|**SurfelSplat: Learning Efficient and Generalizable Gaussian Surfel Representations for Sparse-View Surface Reconstruction**|Chensheng Dai et.al.|[2604.08370](http://arxiv.org/abs/2604.08370)|null|
+|**2026-04-09**|**DP-DeGauss: Dynamic Probabilistic Gaussian Decomposition for Egocentric 4D Scene Reconstruction**|Tingxi Chen et.al.|[2604.07986](http://arxiv.org/abs/2604.07986)|null|
+|**2026-04-09**|**Generative 3D Gaussian Splatting for Arbitrary-ResolutionAtmospheric Downscaling and Forecasting**|Tao Hana et.al.|[2604.07928](http://arxiv.org/abs/2604.07928)|null|
+|**2026-04-09**|**Stitch4D: Sparse Multi-Location 4D Urban Reconstruction via Spatio-Temporal Interpolation**|Hina Kogure et.al.|[2604.07923](http://arxiv.org/abs/2604.07923)|null|
+|**2026-04-09**|**ReconPhys: Reconstruct Appearance and Physical Attributes from Single Video**|Boyuan Wang et.al.|[2604.07882](http://arxiv.org/abs/2604.07882)|null|
+|**2026-04-09**|**GEAR: GEometry-motion Alternating Refinement for Articulated Object Modeling with Gaussian Splatting**|Jialin Li et.al.|[2604.07728](http://arxiv.org/abs/2604.07728)|null|
 |**2026-04-08**|**Fast Spatial Memory with Elastic Test-Time Training**|Ziqiao Ma et.al.|[2604.07350](http://arxiv.org/abs/2604.07350)|null|
 |**2026-04-08**|**From Blobs to Spokes: High-Fidelity Surface Reconstruction via Oriented Gaussians**|Diego Gomez et.al.|[2604.07337](http://arxiv.org/abs/2604.07337)|null|
 |**2026-04-08**|**Splats under Pressure: Exploring Performance-Energy Trade-offs in Real-Time 3D Gaussian Splatting under Constrained GPU Budgets**|Muhammad Fahim Tajwar et.al.|[2604.07177](http://arxiv.org/abs/2604.07177)|null|
 |**2026-04-08**|**Genie Sim PanoRecon: Fast Immersive Scene Generation from Single-View Panorama**|Zhijun Li et.al.|[2604.07105](http://arxiv.org/abs/2604.07105)|null|
 |**2026-04-08**|**Radio-Frequency Inverse Rendering for Wireless Environment Modeling**|Fuhai Wang et.al.|[2604.07086](http://arxiv.org/abs/2604.07086)|null|
-|**2026-04-08**|**AnchorSplat: Feed-Forward 3D Gaussian SplattingWith 3D Geometric Priors**|Xiaoxue Zhang et.al.|[2604.07053](http://arxiv.org/abs/2604.07053)|null|
+|**2026-04-09**|**AnchorSplat: Feed-Forward 3D Gaussian Splatting with 3D Geometric Priors**|Xiaoxue Zhang et.al.|[2604.07053](http://arxiv.org/abs/2604.07053)|null|
 |**2026-04-08**|**DOC-GS: Dual-Domain Observation and Calibration for Reliable Sparse-View Gaussian Splatting**|Hantang Li et.al.|[2604.06739](http://arxiv.org/abs/2604.06739)|null|
 |**2026-04-08**|**4D Vessel Reconstruction for Benchtop Thrombectomy Analysis**|Ethan Nguyen et.al.|[2604.06671](http://arxiv.org/abs/2604.06671)|null|
 |**2026-04-07**|**Spatiotemporal Gaussian representation-based dynamic reconstruction and motion estimation framework for time-resolved volumetric MR imaging (DREME-GSMR)**|Jiacheng Xie et.al.|[2604.06482](http://arxiv.org/abs/2604.06482)|null|
@@ -2903,7 +2911,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
