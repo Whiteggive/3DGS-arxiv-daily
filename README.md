@@ -1,4 +1,4 @@
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-14**|**RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM**|Dongen Li et.al.|[2604.12942](http://arxiv.org/abs/2604.12942)|null|
+|**2026-04-14**|**GGD-SLAM: Monocular 3DGS SLAM Powered by Generalizable Motion Model for Dynamic Environments**|Yi Liu et.al.|[2604.12837](http://arxiv.org/abs/2604.12837)|null|
+|**2026-04-14**|**Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting**|Ziyuan Xia et.al.|[2604.12626](http://arxiv.org/abs/2604.12626)|null|
+|**2026-04-14**|**ELoG-GS: Dual-Branch Gaussian Splatting with Luminance-Guided Enhancement for Extreme Low-light 3D Reconstruction**|Yuhao Liu et.al.|[2604.12592](http://arxiv.org/abs/2604.12592)|null|
+|**2026-04-14**|**PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting**|Kangmin Seo et.al.|[2604.12580](http://arxiv.org/abs/2604.12580)|null|
+|**2026-04-14**|**ArtifactWorld: Scaling 3D Gaussian Splatting Artifact Restoration via Video Generation Models**|Xinliang Wang et.al.|[2604.12251](http://arxiv.org/abs/2604.12251)|null|
+|**2026-04-14**|**VVGT: Visual Volume-Grounded Transformer**|Yuxuan Wang et.al.|[2604.12217](http://arxiv.org/abs/2604.12217)|null|
+|**2026-04-13**|**ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting**|Daniel Yang et.al.|[2604.11992](http://arxiv.org/abs/2604.11992)|null|
+|**2026-04-13**|**A Geometric Algebra-informed NeRF Framework for Generalizable Wireless Channel Prediction**|Jingzhou Shen et.al.|[2604.11983](http://arxiv.org/abs/2604.11983)|null|
 |**2026-04-13**|**Unfolding 3D Gaussian Splatting via Iterative Gaussian Synopsis**|Yuqin Lu et.al.|[2604.11685](http://arxiv.org/abs/2604.11685)|null|
 |**2026-04-13**|**AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation**|Mingyang Li et.al.|[2604.11674](http://arxiv.org/abs/2604.11674)|null|
 |**2026-04-13**|**GS4City: Hierarchical Semantic Gaussian Splatting via City-Model Priors**|Qilin Zhang et.al.|[2604.11401](http://arxiv.org/abs/2604.11401)|null|
@@ -21,10 +30,10 @@
 |**2026-04-13**|**LumiMotion: Improving Gaussian Relighting with Scene Dynamics**|Joanna Kaleta et.al.|[2604.10994](http://arxiv.org/abs/2604.10994)|null|
 |**2026-04-13**|**Ψ-Map: Panoptic Surface Integrated Mapping Enables Real2Sim Transfer**|Xuan Yu et.al.|[2604.10982](http://arxiv.org/abs/2604.10982)|null|
 |**2026-04-13**|**Fast-SegSim: Real-Time Open-Vocabulary Segmentation for Robotics in Simulation**|Xuan Yu et.al.|[2604.10951](http://arxiv.org/abs/2604.10951)|null|
-|**2026-04-13**|**STGV: Spatio-Temporal Hash Encoding for Gaussian-based Video Representation**|Jierun Lin et.al.|[2604.10910](http://arxiv.org/abs/2604.10910)|null|
+|**2026-04-14**|**STGV: Spatio-Temporal Hash Encoding for Gaussian-based Video Representation**|Jierun Lin et.al.|[2604.10910](http://arxiv.org/abs/2604.10910)|null|
 |**2026-04-12**|**WARPED: Wrist-Aligned Rendering for Robot Policy Learning from Egocentric Human Demonstrations**|Harry Freeman et.al.|[2604.10809](http://arxiv.org/abs/2604.10809)|null|
 |**2026-04-12**|**MonoEM-GS: Monocular Expectation-Maximization Gaussian Splatting SLAM**|Evgenii Kruzhkov et.al.|[2604.10593](http://arxiv.org/abs/2604.10593)|null|
-|**2026-04-12**|**Rein3D: Reinforced 3D Indoor Scene Generation with Panoramic Video Diffusion Models**|Dehui Wang et.al.|[2604.10578](http://arxiv.org/abs/2604.10578)|null|
+|**2026-04-14**|**Rein3D: Reinforced 3D Indoor Scene Generation with Panoramic Video Diffusion Models**|Dehui Wang et.al.|[2604.10578](http://arxiv.org/abs/2604.10578)|null|
 |**2026-04-12**|**Learning 3D Representations for Spatial Intelligence from Unposed Multi-View Images**|Bo Zhou et.al.|[2604.10573](http://arxiv.org/abs/2604.10573)|null|
 |**2026-04-12**|**FreeScale: Scaling 3D Scenes via Certainty-Aware Free-View Generation**|Chenhan Jiang et.al.|[2604.10512](http://arxiv.org/abs/2604.10512)|null|
 |**2026-04-11**|**Real-Time Human Reconstruction and Animation using Feed-Forward Gaussian Splatting**|Devdoot Chatterjee et.al.|[2604.10259](http://arxiv.org/abs/2604.10259)|null|
@@ -37,7 +46,7 @@
 |**2026-04-10**|**AudioGS: Spectrogram-Based Audio Gaussian Splatting for Sound Field Reconstruction**|Chunhao Bi et.al.|[2604.08967](http://arxiv.org/abs/2604.08967)|null|
 |**2026-04-09**|**SIC3D: Style Image Conditioned Text-to-3D Gaussian Splatting Generation**|Ming He et.al.|[2604.08760](http://arxiv.org/abs/2604.08760)|null|
 |**2026-04-09**|**Visually-grounded Humanoid Agents**|Hang Ye et.al.|[2604.08509](http://arxiv.org/abs/2604.08509)|null|
-|**2026-04-09**|**BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields**|Fan Yang et.al.|[2604.08410](http://arxiv.org/abs/2604.08410)|null|
+|**2026-04-14**|**BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields**|Fan Yang et.al.|[2604.08410](http://arxiv.org/abs/2604.08410)|null|
 |**2026-04-09**|**SurfelSplat: Learning Efficient and Generalizable Gaussian Surfel Representations for Sparse-View Surface Reconstruction**|Chensheng Dai et.al.|[2604.08370](http://arxiv.org/abs/2604.08370)|null|
 |**2026-04-09**|**DP-DeGauss: Dynamic Probabilistic Gaussian Decomposition for Egocentric 4D Scene Reconstruction**|Tingxi Chen et.al.|[2604.07986](http://arxiv.org/abs/2604.07986)|null|
 |**2026-04-10**|**Generative 3D Gaussian Splatting for Arbitrary-ResolutionAtmospheric Downscaling and Forecasting**|Tao Han et.al.|[2604.07928](http://arxiv.org/abs/2604.07928)|null|
@@ -2935,7 +2944,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
