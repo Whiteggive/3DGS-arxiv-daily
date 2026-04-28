@@ -1,4 +1,4 @@
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**Large-Scale Photogrammetric Documentation of St. John's Co-Cathedral: A Workflow for Cultural Heritage Preservation**|Matthew Kenely et.al.|[2604.24316](http://arxiv.org/abs/2604.24316)|null|
+|**2026-04-27**|**Multivariate Gaussian NeRF for Wide Field-of-View Ultrasound Reconstruction**|Patris Valera et.al.|[2604.24187](http://arxiv.org/abs/2604.24187)|null|
+|**2026-04-27**|**Light 'em Up: Enabling Few-Shot Low-Light 3D Gaussian Splatting with Multi-Scale Explicit Retinex Illumination Decoupling**|YuHao Yin et.al.|[2604.24053](http://arxiv.org/abs/2604.24053)|null|
+|**2026-04-26**|**Bringing a Personal Point of View: Evaluating Dynamic 3D Gaussian Splatting for Egocentric Scene Reconstruction**|Jan Warchocki et.al.|[2604.23803](http://arxiv.org/abs/2604.23803)|null|
+|**2026-04-26**|**GS-DOT: Gaussian splatting-based image reconstruction for diffuse optical tomography**|Jingjing Jiang et.al.|[2604.23675](http://arxiv.org/abs/2604.23675)|null|
+|**2026-04-26**|**Spatiotemporal Degradation-Aware 3D Gaussian Splatting for Realistic Underwater Scene Reconstruction**|Shaohua Liu et.al.|[2604.23551](http://arxiv.org/abs/2604.23551)|null|
+|**2026-04-25**|**RadTwin: Generalizable Wireless Digital Twin for Dynamic Environments**|Yuru Zhang et.al.|[2604.23310](http://arxiv.org/abs/2604.23310)|null|
 |**2026-04-24**|**NRGS: Neural Regularization for Robust 3D Semantic Gaussian Splatting**|Zaiyan Yang et.al.|[2604.22439](http://arxiv.org/abs/2604.22439)|null|
 |**2026-04-24**|**Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM**|Yunsong Wang et.al.|[2604.22339](http://arxiv.org/abs/2604.22339)|null|
 |**2026-04-24**|**EvFlow-GS: Event Enhanced Motion Deblurring with Optical Flow for 3D Gaussian Splatting**|Feiyu An et.al.|[2604.22183](http://arxiv.org/abs/2604.22183)|null|
@@ -3000,7 +3007,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
