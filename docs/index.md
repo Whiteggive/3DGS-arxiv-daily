@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Color-Encoded Illumination for High-Speed Volumetric Scene Reconstruction**|David Novikov et.al.|[2604.26920](http://arxiv.org/abs/2604.26920)|null|
+|**2026-04-29**|**Safe Navigation using Neural Radiance Fields via Reachable Sets**|Omanshu Thapliyal et.al.|[2604.26899](http://arxiv.org/abs/2604.26899)|null|
+|**2026-04-29**|**MesonGS++: Post-training Compression of 3D Gaussian Splatting with Hyperparameter Searching**|Shuzhao Xie et.al.|[2604.26799](http://arxiv.org/abs/2604.26799)|null|
+|**2026-04-29**|**Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising**|Jun Guo et.al.|[2604.26694](http://arxiv.org/abs/2604.26694)|null|
+|**2026-04-29**|**Semantic Foam: Unifying Spatial and Semantic Scene Decomposition**|Amr Sharafeldin et.al.|[2604.26262](http://arxiv.org/abs/2604.26262)|null|
+|**2026-04-29**|**EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors**|Rui Song et.al.|[2604.26238](http://arxiv.org/abs/2604.26238)|null|
 |**2026-04-28**|**Point Group Symmetry of Polyhedral Diagrams in Graphic Statics**|Yefan Zhi et.al.|[2604.25695](http://arxiv.org/abs/2604.25695)|null|
 |**2026-04-28**|**Generalizable Human Gaussian Splatting via Multi-view Semantic Consistency**|Jingi Kim et.al.|[2604.25466](http://arxiv.org/abs/2604.25466)|null|
 |**2026-04-28**|**GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning**|Yufei Jia et.al.|[2604.25459](http://arxiv.org/abs/2604.25459)|null|
