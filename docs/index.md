@@ -2,17 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.05.03
+## Updated on 2026.05.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**2D-SuGaR: Surface-Aware Gaussian Splatting for Geometrically Accurate Mesh Reconstruction**|Prajwal Gupta C. R. et.al.|[2605.00569](http://arxiv.org/abs/2605.00569)|null|
+|**2026-05-01**|**GOR-IS: 3D Gaussian Object Removal in the Intrinsic Space**|Yonghao Zhao et.al.|[2605.00498](http://arxiv.org/abs/2605.00498)|null|
+|**2026-05-01**|**Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting**|Zhenhua Ning et.al.|[2605.00408](http://arxiv.org/abs/2605.00408)|null|
+|**2026-04-30**|**VkSplat: High-Performance 3DGS Training in Vulkan Compute**|Jingxiang Chen et.al.|[2605.00219](http://arxiv.org/abs/2605.00219)|null|
+|**2026-04-30**|**FieryGS: In-the-Wild Fire Synthesis with Physics-Integrated Gaussian Splatting**|Qianfan Shen et.al.|[2605.00177](http://arxiv.org/abs/2605.00177)|null|
+|**2026-04-29**|**Two-View Accumulation as the Primary Training Lever for Hybrid-Capture Gaussian Splatting: A Variance-Decomposition View of When Gradient Surgery Helps**|Sungjun Cho et.al.|[2605.00052](http://arxiv.org/abs/2605.00052)|null|
 |**2026-04-30**|**Generalizable Sparse-View 3D Reconstruction from Unconstrained Images**|Vinayak Gupta et.al.|[2604.28193](http://arxiv.org/abs/2604.28193)|null|
 |**2026-04-30**|**Stop Holding Your Breath: CT-Informed Gaussian Splatting for Dynamic Bronchoscopy**|Andrea Dunn Beltran et.al.|[2604.28179](http://arxiv.org/abs/2604.28179)|null|
 |**2026-04-30**|**FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction**|Zeyu Jiang et.al.|[2604.28115](http://arxiv.org/abs/2604.28115)|null|
-|**2026-04-30**|**GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment**|Ziang Guo et.al.|[2604.28111](http://arxiv.org/abs/2604.28111)|null|
+|**2026-05-01**|**GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment**|Ziang Guo et.al.|[2604.28111](http://arxiv.org/abs/2604.28111)|null|
 |**2026-04-30**|**Faster 3D Gaussian Splatting Convergence via Structure-Aware Densification**|Linjie Lyu et.al.|[2604.28016](http://arxiv.org/abs/2604.28016)|null|
 |**2026-04-30**|**Fake3DGS: A Benchmark for 3D Manipulation Detection in Neural Rendering**|Davide Di Nucci et.al.|[2604.27590](http://arxiv.org/abs/2604.27590)|null|
 |**2026-04-30**|**SandSim: Curve-Guided Gaussian Splatting for Reconstructing Sand Painting Processes**|Yilin Wang et.al.|[2604.27572](http://arxiv.org/abs/2604.27572)|null|
@@ -23,7 +29,7 @@ layout: default
 |**2026-04-29**|**Safe Navigation using Neural Radiance Fields via Reachable Sets**|Omanshu Thapliyal et.al.|[2604.26899](http://arxiv.org/abs/2604.26899)|null|
 |**2026-04-29**|**MesonGS++: Post-training Compression of 3D Gaussian Splatting with Hyperparameter Searching**|Shuzhao Xie et.al.|[2604.26799](http://arxiv.org/abs/2604.26799)|null|
 |**2026-04-29**|**Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising**|Jun Guo et.al.|[2604.26694](http://arxiv.org/abs/2604.26694)|null|
-|**2026-04-29**|**Semantic Foam: Unifying Spatial and Semantic Scene Decomposition**|Amr Sharafeldin et.al.|[2604.26262](http://arxiv.org/abs/2604.26262)|null|
+|**2026-05-01**|**Semantic Foam: Unifying Spatial and Semantic Scene Decomposition**|Amr Sharafeldin et.al.|[2604.26262](http://arxiv.org/abs/2604.26262)|null|
 |**2026-04-29**|**EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors**|Rui Song et.al.|[2604.26238](http://arxiv.org/abs/2604.26238)|null|
 |**2026-04-28**|**Point Group Symmetry of Polyhedral Diagrams in Graphic Statics**|Yefan Zhi et.al.|[2604.25695](http://arxiv.org/abs/2604.25695)|null|
 |**2026-04-28**|**Generalizable Human Gaussian Splatting via Multi-view Semantic Consistency**|Jingi Kim et.al.|[2604.25466](http://arxiv.org/abs/2604.25466)|null|
