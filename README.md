@@ -1,4 +1,4 @@
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,12 +12,31 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-11**|**MAGS-SLAM: Monocular Multi-Agent Gaussian Splatting SLAM for Geometrically and Photometrically Consistent Reconstruction**|Zhihao Cao et.al.|[2605.10760](http://arxiv.org/abs/2605.10760)|null|
+|**2026-05-11**|**UAV-Assisted Scan-to-Simulation for Landslides Using Physics-Informed Gaussian Splatting**|Zhenyu Liang et.al.|[2605.10715](http://arxiv.org/abs/2605.10715)|null|
+|**2026-05-11**|**TransmissiveGS: Residual-Guided Disentangled Gaussian Splatting for Transmissive Scene Reconstruction and Rendering**|Zhenyu Liang et.al.|[2605.10705](http://arxiv.org/abs/2605.10705)|null|
+|**2026-05-11**|**VEGA: Visual Encoder Grounding Alignment for Spatially-Aware Vision-Language-Action Models**|Hao Wang et.al.|[2605.10485](http://arxiv.org/abs/2605.10485)|null|
+|**2026-05-11**|**DySurface: Consistent 4D Surface Reconstruction via Bridging Explicit Gaussians and Implicit Functions**|Minje Kim et.al.|[2605.10360](http://arxiv.org/abs/2605.10360)|null|
+|**2026-05-11**|**PaMoSplat: Part-Aware Motion-Guided Gaussian Splatting for Dynamic Scene Reconstruction**|Yinan Deng et.al.|[2605.10307](http://arxiv.org/abs/2605.10307)|null|
+|**2026-05-11**|**AdaptSplat: Adapting Vision Foundation Models for Feed-Forward 3D Gaussian Splatting**|Mingwei Xing et.al.|[2605.10239](http://arxiv.org/abs/2605.10239)|null|
+|**2026-05-11**|**BathyFacto: Refraction-Aware Two-Media Neural Radiance Fields for Bathymetry**|Markus Brezovsky et.al.|[2605.10174](http://arxiv.org/abs/2605.10174)|null|
+|**2026-05-11**|**SDTalk: Structured Facial Priors and Dual-Branch Motion Fields for Generalizable Gaussian Talking Head Synthesis**|Peng Jia et.al.|[2605.09956](http://arxiv.org/abs/2605.09956)|null|
+|**2026-05-10**|**ConFixGS: Learning to Fix Feedforward 3D Gaussian Splatting with Confidence-Aware Diffusion Priors in Driving Scenes**|Rui Song et.al.|[2605.09688](http://arxiv.org/abs/2605.09688)|null|
+|**2026-05-10**|**BEA-GS: BEyond RAdiance Supervision in 3DGS for Precise Object Extraction**|Alessio Mazzucchelli et.al.|[2605.09662](http://arxiv.org/abs/2605.09662)|null|
+|**2026-05-10**|**FrameTwin: Curve-Anchored Gaussian Alignment from Sparse Views for Adaptive Wireframe 3D Printing**|Wenting Wang et.al.|[2605.09362](http://arxiv.org/abs/2605.09362)|null|
+|**2026-05-10**|**Low-Cost Neural Radiance Fields**|Alice Huang et.al.|[2605.09312](http://arxiv.org/abs/2605.09312)|null|
+|**2026-05-10**|**LagrangianSplats: Divergence-Free Transport of Gaussian Primitives for Fluid Reconstruction**|Ningxiao Tao et.al.|[2605.09299](http://arxiv.org/abs/2605.09299)|null|
+|**2026-05-10**|**CAGS: Color-Adaptive Volumetric Video Streaming with Dynamic 3D Gaussian Splatting**|Daheng Yin et.al.|[2605.09279](http://arxiv.org/abs/2605.09279)|null|
+|**2026-05-09**|**Relightable Gaussian Splatting for Virtual Production Using Image-Based Illumination**|Adrian Azzarelli et.al.|[2605.09024](http://arxiv.org/abs/2605.09024)|null|
+|**2026-05-09**|**ReorgGS: Equivalent Distribution Reorganization for 3D Gaussian Splatting**|Luchao Wang et.al.|[2605.08739](http://arxiv.org/abs/2605.08739)|null|
+|**2026-05-09**|**REAP: Reinforcement-Learning End-to-End Autonomous Parking with Gaussian Splatting Simulator for Real2Sim2Real Transfer**|Changze Li et.al.|[2605.08713](http://arxiv.org/abs/2605.08713)|null|
+|**2026-05-09**|**Thin-Client Interactive Gaussian Adaptive Streaming over HTTP/3**|Emanuele Artioli et.al.|[2605.08699](http://arxiv.org/abs/2605.08699)|null|
 |**2026-05-08**|**PropSplat: Map-Free RF Field Reconstruction via 3D Gaussian Propagation Splatting**|William Bjorndahl et.al.|[2605.08035](http://arxiv.org/abs/2605.08035)|null|
 |**2026-05-08**|**Differentiable Ray Tracing with Gaussians for Unified Radio Propagation Simulation and View Synthesis**|Niklas Vaara et.al.|[2605.07781](http://arxiv.org/abs/2605.07781)|null|
 |**2026-05-08**|**Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization**|Miso Lee et.al.|[2605.07351](http://arxiv.org/abs/2605.07351)|null|
 |**2026-05-08**|**SplatWeaver: Learning to Allocate Gaussian Primitives for Generalizable Novel View Synthesis**|Yecong Wan et.al.|[2605.07287](http://arxiv.org/abs/2605.07287)|null|
 |**2026-05-08**|**High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images**|Nandhana Sunil et.al.|[2605.07254](http://arxiv.org/abs/2605.07254)|null|
-|**2026-05-08**|**From Pixels to Primitives: Scene Change Detection in 3D Gaussian Splatting**|Chamuditha Jayanga Galappaththige et.al.|[2605.07203](http://arxiv.org/abs/2605.07203)|null|
+|**2026-05-11**|**From Pixels to Primitives: Scene Change Detection in 3D Gaussian Splatting**|Chamuditha Jayanga Galappaththige et.al.|[2605.07203](http://arxiv.org/abs/2605.07203)|null|
 |**2026-05-08**|**AsyncEvGS: Asynchronous Event-Assisted Gaussian Splatting for Handheld Motion-Blurred Scenes**|Jun Dai et.al.|[2605.07192](http://arxiv.org/abs/2605.07192)|null|
 |**2026-05-08**|**SatSurfGS: Generalizable 2D Gaussian Splatting for Sparse-View Satellite Surface Reconstruction**|Min Chen et.al.|[2605.07181](http://arxiv.org/abs/2605.07181)|null|
 |**2026-05-08**|**Uncovering and Shaping the Latent Representation of 3D Scene Topology in Vision-Language Models**|Haoming Wang et.al.|[2605.07148](http://arxiv.org/abs/2605.07148)|null|
@@ -3064,7 +3083,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
