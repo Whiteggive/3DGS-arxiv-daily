@@ -1,4 +1,4 @@
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,12 +12,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**BlitzGS: City-Scale Gaussian Splatting at Lightning Speed**|Zhongtao Wang et.al.|[2605.13794](http://arxiv.org/abs/2605.13794)|null|
+|**2026-05-13**|**Sparse Code Uplifting for Efficient 3D Language Gaussian Splatting**|Lovre Antonio Budimir et.al.|[2605.13600](http://arxiv.org/abs/2605.13600)|null|
+|**2026-05-13**|**Real2Sim: A Physics-driven and Editable Gaussian Splatting Framework for Autonomous Driving Scenes**|Kaicong Huang et.al.|[2605.13591](http://arxiv.org/abs/2605.13591)|null|
+|**2026-05-13**|**Z-Order Transformer for Feed-Forward Gaussian Splatting**|Can Wang et.al.|[2605.13465](http://arxiv.org/abs/2605.13465)|null|
+|**2026-05-13**|**RoSplat: Robust Feed-Forward Pixel-wise Gaussian Splatting for Varying Input Views and High-Resolution Rendering**|Hoang Chuong Nguyen et.al.|[2605.13093](http://arxiv.org/abs/2605.13093)|null|
+|**2026-05-13**|**HarmoGS: Robust 3D Gaussian Splatting in the Wild via Conflict-Aware Gradient Harmonization**|Yulei Kang et.al.|[2605.13073](http://arxiv.org/abs/2605.13073)|null|
+|**2026-05-13**|**OCH3R: Object-Centric Holistic 3D Reconstruction**|Yi Du et.al.|[2605.13018](http://arxiv.org/abs/2605.13018)|null|
+|**2026-05-13**|**GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting**|Utae Jeong et.al.|[2605.12919](http://arxiv.org/abs/2605.12919)|null|
 |**2026-05-12**|**Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction**|Jiahe Li et.al.|[2605.12494](http://arxiv.org/abs/2605.12494)|null|
 |**2026-05-12**|**3D Gaussian Splatting for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark**|Yunxiao Zhang et.al.|[2605.12437](http://arxiv.org/abs/2605.12437)|null|
 |**2026-05-12**|**GeoQuery: Geometry-Query Diffusion for Sparse-View Reconstruction**|Xiao Cao et.al.|[2605.12399](http://arxiv.org/abs/2605.12399)|null|
 |**2026-05-12**|**PoseCompass: Intelligent Synthetic Pose Selection for Visual Localization**|Yanan Zhou et.al.|[2605.12144](http://arxiv.org/abs/2605.12144)|null|
-|**2026-05-12**|**MoCam: Unified Novel View Synthesis via Structured Denoising Dynamics**|Haofeng Liu et.al.|[2605.12119](http://arxiv.org/abs/2605.12119)|null|
-|**2026-05-12**|**PairDropGS: Paired Dropout-Induced Consistency Regularization for Sparse-View Gaussian Splatting**|Hantang Li et.al.|[2605.12072](http://arxiv.org/abs/2605.12072)|null|
+|**2026-05-13**|**MoCam: Unified Novel View Synthesis via Structured Denoising Dynamics**|Haofeng Liu et.al.|[2605.12119](http://arxiv.org/abs/2605.12119)|null|
+|**2026-05-13**|**PairDropGS: Paired Dropout-Induced Consistency Regularization for Sparse-View Gaussian Splatting**|Hantang Li et.al.|[2605.12072](http://arxiv.org/abs/2605.12072)|null|
 |**2026-05-12**|**4DVGGT-D: 4D Visual Geometry Transformer with Improved Dynamic Depth Estimation**|Ying Zang et.al.|[2605.12027](http://arxiv.org/abs/2605.12027)|null|
 |**2026-05-12**|**PointForward: Feedforward Driving Reconstruction through Point-Aligned Representations**|Cheng Chi et.al.|[2605.11594](http://arxiv.org/abs/2605.11594)|null|
 |**2026-05-12**|**PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting**|Yixiao Song et.al.|[2605.11520](http://arxiv.org/abs/2605.11520)|null|
@@ -3098,7 +3106,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
