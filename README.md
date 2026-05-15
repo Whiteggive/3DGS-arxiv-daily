@@ -1,4 +1,4 @@
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**3D Skew-Normal Splatting**|Xiangru Wu et.al.|[2605.15010](http://arxiv.org/abs/2605.15010)|null|
+|**2026-05-14**|**Denoising-GS: Gaussian Splatting with Spatial-aware Denoising**|Qingyuan Zhou et.al.|[2605.14880](http://arxiv.org/abs/2605.14880)|null|
+|**2026-05-14**|**Efficient Dense Matching for Enhanced Gaussian Splatting Using AV1 Motion Vectors**|Julien Zouein et.al.|[2605.14629](http://arxiv.org/abs/2605.14629)|null|
+|**2026-05-14**|**Towards Accurate Single Panoramic 3D Detection: A Semantic Gaussian Centric Approach**|Kanglin Ning et.al.|[2605.14601](http://arxiv.org/abs/2605.14601)|null|
+|**2026-05-13**|**PanoPlane: Plane-Aware Panoramic Completion for Sparse-View Indoor 3D Gaussian Splatting**|Adil Qureshi et.al.|[2605.14135](http://arxiv.org/abs/2605.14135)|null|
 |**2026-05-13**|**BlitzGS: City-Scale Gaussian Splatting at Lightning Speed**|Zhongtao Wang et.al.|[2605.13794](http://arxiv.org/abs/2605.13794)|null|
 |**2026-05-13**|**Sparse Code Uplifting for Efficient 3D Language Gaussian Splatting**|Lovre Antonio Budimir et.al.|[2605.13600](http://arxiv.org/abs/2605.13600)|null|
 |**2026-05-13**|**Real2Sim: A Physics-driven and Editable Gaussian Splatting Framework for Autonomous Driving Scenes**|Kaicong Huang et.al.|[2605.13591](http://arxiv.org/abs/2605.13591)|null|
@@ -3106,7 +3111,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
