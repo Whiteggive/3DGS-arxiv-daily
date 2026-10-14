@@ -2,18 +2,37 @@
 layout: default
 ---
 
-## Updated on 2026.10.13
+## Updated on 2026.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**CoTL: Compact Token Learning for 3D Scene Representation**|Han Liang et.al.|[2610.18446](http://arxiv.org/abs/2610.18446)|null|
+|**2026-10-13**|**I2O2I-Nav: A Benchmark with a Modular Agent for Long-Horizon Indoor-to-Outdoor-to-Indoor Navigation**|Zhengjie Shu et.al.|[2610.18307](http://arxiv.org/abs/2610.18307)|null|
+|**2026-10-13**|**Back to the Future: Reverse-Consequence Modeling for Long-Horizon Particle Dynamics**|Leyan Zhang et.al.|[2610.18168](http://arxiv.org/abs/2610.18168)|null|
+|**2026-10-13**|**PUGS: Physics-Guided Uncertainty Modeling for Underwater Dynamic 3D Gaussian Splatting**|Tingjun Li et.al.|[2610.17936](http://arxiv.org/abs/2610.17936)|null|
+|**2026-10-13**|**PLEDGE: Progressive Lossy Error-Bounded Compression of 3D Gaussian Splatting**|Mingze Xia et.al.|[2610.17605](http://arxiv.org/abs/2610.17605)|null|
+|**2026-10-13**|**Physical-Field-Bridged Material Parameter Inference from Multi-View Deformation Videos**|Linrui Shou et.al.|[2610.17591](http://arxiv.org/abs/2610.17591)|null|
+|**2026-10-13**|**YUBI-Real2Sim: 3DGS Scene Verification for Reliable Policy Evaluation**|Hiroki Nishizawa et.al.|[2610.17521](http://arxiv.org/abs/2610.17521)|null|
+|**2026-10-13**|**Gaussian Splatting for Real-Time Scene Reconstruction: Methods, Systems, and Trade-offs**|Ashim Dahal et.al.|[2610.17513](http://arxiv.org/abs/2610.17513)|null|
+|**2026-10-12**|**Act4R: Action-conditioned 4D reconstruction for kinematics-free control**|Zhaoliang Zhang et.al.|[2610.17462](http://arxiv.org/abs/2610.17462)|null|
+|**2026-10-12**|**Brain2Face: A Study on the Relation of EEG Signals and Spatio-temporal Head Avatars**|Camilo Andrés Martínez Martínez et.al.|[2610.17356](http://arxiv.org/abs/2610.17356)|null|
+|**2026-10-12**|**PhysCodeGym: Benchmarking Coding Agents for Physically Verifiable 4D Reconstruction**|Shuai Shao et.al.|[2610.17288](http://arxiv.org/abs/2610.17288)|null|
+|**2026-10-12**|**Physical SLAM: Physics-aware Simultaneous Localisation and Mapping**|Guangming Wang et.al.|[2610.17260](http://arxiv.org/abs/2610.17260)|null|
+|**2026-10-12**|**3D Gaussian Splatting for Fine-grained Urban Scene Reconstruction via Semantic-guided Density Control and Loss Design**|Yueling Liao et.al.|[2610.16292](http://arxiv.org/abs/2610.16292)|null|
+|**2026-10-12**|**MFlowHOI: Whole-Body Human-Object Interaction Generation via Part-Aware MeanFlow**|Qiang He et.al.|[2610.16252](http://arxiv.org/abs/2610.16252)|null|
+|**2026-10-12**|**DIGS: Distribution-Informed Gaussian Splatting for Training-Free Open-Vocabulary 3D Segmentation**|Zhifan Zeng et.al.|[2610.16177](http://arxiv.org/abs/2610.16177)|null|
+|**2026-10-10**|**AD-GS: Anatomical Density-guided 3D Gaussian Splatting for Sparse-View Dental CBCT Reconstruction**|Zonglin Li et.al.|[2610.14963](http://arxiv.org/abs/2610.14963)|null|
+|**2026-10-10**|**Demiurge: Forging Navigable 4D Worlds via Autoregressive Video Rerendering**|Hanxin Zhu et.al.|[2610.14685](http://arxiv.org/abs/2610.14685)|null|
+|**2026-10-10**|**TETRIS-4DGS: Efficient Post-Training Compression of 4D Gaussian Splatting**|Chengzhen Wu et.al.|[2610.14663](http://arxiv.org/abs/2610.14663)|null|
+|**2026-10-08**|**When pose graphs are not enough: a failure analysis of pose-graph-based camera estimation for Gaussian splatting**|Senthil Palanisamy et.al.|[2610.14090](http://arxiv.org/abs/2610.14090)|null|
 |**2026-10-09**|**Splat2Act: From Captured Scenes to Personalized VLA Manipulation**|Xiaomeng Ye et.al.|[2610.13945](http://arxiv.org/abs/2610.13945)|null|
 |**2026-10-09**|**Make It Flow: Animating Water in 3D Gaussian Splatting Scenes**|Kjell Keune et.al.|[2610.13860](http://arxiv.org/abs/2610.13860)|null|
 |**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|null|
 |**2026-10-09**|**Gaussian Splatting with Reflections Guided by What is Seen**|Yiming Liang et.al.|[2610.13757](http://arxiv.org/abs/2610.13757)|null|
-|**2026-10-09**|**AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Xuanye Wu et.al.|[2610.13643](http://arxiv.org/abs/2610.13643)|null|
+|**2026-10-12**|**AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Xuanye Wu et.al.|[2610.13643](http://arxiv.org/abs/2610.13643)|null|
 |**2026-10-09**|**Efficient Confidence-Aware Densification for 3DGS**|Manuel Hofer et.al.|[2610.13541](http://arxiv.org/abs/2610.13541)|null|
 |**2026-10-09**|**SplatQ: Interaction-Aware Pruning of 3D Gaussian Splatting via Quadratic Selection**|Hongbin Ye et.al.|[2610.13503](http://arxiv.org/abs/2610.13503)|null|
 |**2026-10-09**|**A Hybrid and Hierarchical Ray Tracing Method for Efficient 3D Gaussian Rendering**|Tiancheng Zhao et.al.|[2610.13498](http://arxiv.org/abs/2610.13498)|null|
