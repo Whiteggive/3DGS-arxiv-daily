@@ -1,4 +1,4 @@
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,7 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-13**|**CoTL: Compact Token Learning for 3D Scene Representation**|Han Liang et.al.|[2610.18446](http://arxiv.org/abs/2610.18446)|null|
+|**2026-10-14**|**Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting**|Seungmi Choi et.al.|[2610.20590](http://arxiv.org/abs/2610.20590)|null|
+|**2026-10-14**|**Where Should the Gaussians Go? Reusable Label-Aware Allocation for Budget-Constrained Gaussian Splatting of Cinematic CT**|Bowen Xiang et.al.|[2610.20397](http://arxiv.org/abs/2610.20397)|null|
+|**2026-10-14**|**InfiniSplat v2: Analyzing and Improving Feed-Forward 3DGS from Any Views**|Yongzhen Hu et.al.|[2610.20341](http://arxiv.org/abs/2610.20341)|null|
+|**2026-10-14**|**VisibilitySplat: Ray-Traced Occlusion for Relighting with 3D Gaussian Splatting**|Sven Kluge et.al.|[2610.19847](http://arxiv.org/abs/2610.19847)|null|
+|**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742](http://arxiv.org/abs/2610.19742)|null|
+|**2026-10-14**|**GS-PRM: Gaussian Visual Roadmap for Image-Goal Navigation**|Ashraf Siddique et.al.|[2610.19541](http://arxiv.org/abs/2610.19541)|null|
+|**2026-10-14**|**RDCompGS: Rate-Distortion Optimization for Compression of 3D Gaussian Splatting with Image Codecs**|Huiping Ren et.al.|[2610.19538](http://arxiv.org/abs/2610.19538)|null|
+|**2026-10-14**|**Holi-Spatial 360: Generative Reconstruction from Sparse Panoramas for Spatial Rendering and Intelligence**|Yuanyuan Gao et.al.|[2610.19502](http://arxiv.org/abs/2610.19502)|null|
+|**2026-10-13**|**DoReMe: Dual optimization of Reconstruction and Motion estimation for self-navigated free-breathing abdominal MRI using Gaussian Splatting**|Majd Helo et.al.|[2610.19120](http://arxiv.org/abs/2610.19120)|null|
+|**2026-10-14**|**CoTL: Compact Token Learning for 3D Scene Representation**|Han Liang et.al.|[2610.18446](http://arxiv.org/abs/2610.18446)|null|
 |**2026-10-13**|**I2O2I-Nav: A Benchmark with a Modular Agent for Long-Horizon Indoor-to-Outdoor-to-Indoor Navigation**|Zhengjie Shu et.al.|[2610.18307](http://arxiv.org/abs/2610.18307)|null|
 |**2026-10-13**|**Back to the Future: Reverse-Consequence Modeling for Long-Horizon Particle Dynamics**|Leyan Zhang et.al.|[2610.18168](http://arxiv.org/abs/2610.18168)|null|
 |**2026-10-13**|**PUGS: Physics-Guided Uncertainty Modeling for Underwater Dynamic 3D Gaussian Splatting**|Tingjun Li et.al.|[2610.17936](http://arxiv.org/abs/2610.17936)|null|
@@ -35,7 +44,7 @@
 |**2026-10-09**|**Make It Flow: Animating Water in 3D Gaussian Splatting Scenes**|Kjell Keune et.al.|[2610.13860](http://arxiv.org/abs/2610.13860)|null|
 |**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|null|
 |**2026-10-09**|**Gaussian Splatting with Reflections Guided by What is Seen**|Yiming Liang et.al.|[2610.13757](http://arxiv.org/abs/2610.13757)|null|
-|**2026-10-12**|**AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Xuanye Wu et.al.|[2610.13643](http://arxiv.org/abs/2610.13643)|null|
+|**2026-10-14**|**DexBioLab: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Xuanye Wu et.al.|[2610.13643](http://arxiv.org/abs/2610.13643)|null|
 |**2026-10-09**|**Efficient Confidence-Aware Densification for 3DGS**|Manuel Hofer et.al.|[2610.13541](http://arxiv.org/abs/2610.13541)|null|
 |**2026-10-09**|**SplatQ: Interaction-Aware Pruning of 3D Gaussian Splatting via Quadratic Selection**|Hongbin Ye et.al.|[2610.13503](http://arxiv.org/abs/2610.13503)|null|
 |**2026-10-09**|**A Hybrid and Hierarchical Ray Tracing Method for Efficient 3D Gaussian Rendering**|Tiancheng Zhao et.al.|[2610.13498](http://arxiv.org/abs/2610.13498)|null|
@@ -3194,7 +3203,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
