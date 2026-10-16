@@ -2,19 +2,25 @@
 layout: default
 ---
 
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**CF-Splat: Closed-Form Triangle Splatting with Mesh Priors**|Yixin Fang et.al.|[2610.22108](http://arxiv.org/abs/2610.22108)|null|
+|**2026-10-15**|**Compression of Uniformly Distributed Unit Quaternions**|Carsten Faber et.al.|[2610.22052](http://arxiv.org/abs/2610.22052)|null|
+|**2026-10-15**|**Edit4D: Editable 4D Scene Generation with Textual Control**|Chanwoo Kim et.al.|[2610.21668](http://arxiv.org/abs/2610.21668)|null|
+|**2026-10-15**|**Anchor3DGS: Feed-Forward 3D Gaussian Splatting with Compact Anchor-Based Representation**|Sheng Ye et.al.|[2610.21634](http://arxiv.org/abs/2610.21634)|null|
+|**2026-10-15**|**Training-Free Target-Aware Refinement of 3D Gaussian Language Map**|Sibaek Lee et.al.|[2610.21619](http://arxiv.org/abs/2610.21619)|null|
+|**2026-10-15**|**ResStreamGS: Residual-Sensitive Dual-Stream Gaussian Splatting for Mobile Volumetric Video Streaming**|Haoran Liu et.al.|[2610.21121](http://arxiv.org/abs/2610.21121)|null|
 |**2026-10-14**|**Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting**|Seungmi Choi et.al.|[2610.20590](http://arxiv.org/abs/2610.20590)|null|
 |**2026-10-14**|**Where Should the Gaussians Go? Reusable Label-Aware Allocation for Budget-Constrained Gaussian Splatting of Cinematic CT**|Bowen Xiang et.al.|[2610.20397](http://arxiv.org/abs/2610.20397)|null|
 |**2026-10-14**|**InfiniSplat v2: Analyzing and Improving Feed-Forward 3DGS from Any Views**|Yongzhen Hu et.al.|[2610.20341](http://arxiv.org/abs/2610.20341)|null|
 |**2026-10-14**|**VisibilitySplat: Ray-Traced Occlusion for Relighting with 3D Gaussian Splatting**|Sven Kluge et.al.|[2610.19847](http://arxiv.org/abs/2610.19847)|null|
 |**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742](http://arxiv.org/abs/2610.19742)|null|
-|**2026-10-14**|**GS-PRM: Gaussian Visual Roadmap for Image-Goal Navigation**|Ashraf Siddique et.al.|[2610.19541](http://arxiv.org/abs/2610.19541)|null|
+|**2026-10-15**|**GS-PRM: Gaussian Visual Roadmap for Image-Goal Navigation**|Ashraf Siddique et.al.|[2610.19541](http://arxiv.org/abs/2610.19541)|null|
 |**2026-10-14**|**RDCompGS: Rate-Distortion Optimization for Compression of 3D Gaussian Splatting with Image Codecs**|Huiping Ren et.al.|[2610.19538](http://arxiv.org/abs/2610.19538)|null|
 |**2026-10-14**|**Holi-Spatial 360: Generative Reconstruction from Sparse Panoramas for Spatial Rendering and Intelligence**|Yuanyuan Gao et.al.|[2610.19502](http://arxiv.org/abs/2610.19502)|null|
 |**2026-10-13**|**DoReMe: Dual optimization of Reconstruction and Motion estimation for self-navigated free-breathing abdominal MRI using Gaussian Splatting**|Majd Helo et.al.|[2610.19120](http://arxiv.org/abs/2610.19120)|null|
