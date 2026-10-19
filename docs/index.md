@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.10.18
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**Video Diffusion Avatars: Taming Video Diffusion Models into Controllable 3D Avatars**|Simon Giebenhain et.al.|[2610.23772](http://arxiv.org/abs/2610.23772)|null|
+|**2026-10-16**|**X-Splat: Unified Gaussian Splatting for Joint RGB and X-ray 3D Reconstruction**|Wangze Xu et.al.|[2610.23237](http://arxiv.org/abs/2610.23237)|null|
+|**2026-10-16**|**TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation**|Yun Wang et.al.|[2610.23050](http://arxiv.org/abs/2610.23050)|null|
+|**2026-10-16**|**Frame-Consistent Feed-Forward 3D Gaussian Splatting from Sparse Unposed Images**|Viruthshaan Vinasirajan et.al.|[2610.23039](http://arxiv.org/abs/2610.23039)|null|
+|**2026-10-16**|**Direct Conditional Parameterization for N-Dimensional Splatting**|Zhongpai Gao et.al.|[2610.22778](http://arxiv.org/abs/2610.22778)|null|
+|**2026-10-15**|**KFS $^4$ LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM**|Xinwei Ju et.al.|[2610.22505](http://arxiv.org/abs/2610.22505)|null|
+|**2026-10-15**|**DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving**|Wei Wang et.al.|[2610.22450](http://arxiv.org/abs/2610.22450)|null|
 |**2026-10-15**|**CF-Splat: Closed-Form Triangle Splatting with Mesh Priors**|Yixin Fang et.al.|[2610.22108](http://arxiv.org/abs/2610.22108)|null|
 |**2026-10-15**|**Compression of Uniformly Distributed Unit Quaternions**|Carsten Faber et.al.|[2610.22052](http://arxiv.org/abs/2610.22052)|null|
 |**2026-10-15**|**Edit4D: Editable 4D Scene Generation with Textual Control**|Chanwoo Kim et.al.|[2610.21668](http://arxiv.org/abs/2610.21668)|null|
@@ -47,7 +54,7 @@ layout: default
 |**2026-10-09**|**Make It Flow: Animating Water in 3D Gaussian Splatting Scenes**|Kjell Keune et.al.|[2610.13860](http://arxiv.org/abs/2610.13860)|null|
 |**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|null|
 |**2026-10-09**|**Gaussian Splatting with Reflections Guided by What is Seen**|Yiming Liang et.al.|[2610.13757](http://arxiv.org/abs/2610.13757)|null|
-|**2026-10-14**|**DexBioLab: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Xuanye Wu et.al.|[2610.13643](http://arxiv.org/abs/2610.13643)|null|
+|**2026-10-16**|**DexBioLab: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Xuanye Wu et.al.|[2610.13643](http://arxiv.org/abs/2610.13643)|null|
 |**2026-10-09**|**Efficient Confidence-Aware Densification for 3DGS**|Manuel Hofer et.al.|[2610.13541](http://arxiv.org/abs/2610.13541)|null|
 |**2026-10-09**|**SplatQ: Interaction-Aware Pruning of 3D Gaussian Splatting via Quadratic Selection**|Hongbin Ye et.al.|[2610.13503](http://arxiv.org/abs/2610.13503)|null|
 |**2026-10-09**|**A Hybrid and Hierarchical Ray Tracing Method for Efficient 3D Gaussian Rendering**|Tiancheng Zhao et.al.|[2610.13498](http://arxiv.org/abs/2610.13498)|null|
