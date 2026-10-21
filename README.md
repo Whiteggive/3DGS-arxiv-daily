@@ -1,4 +1,4 @@
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**AEON: Unifying Video and 3D World Models**|Weiqi Zhang et.al.|[2610.28631](http://arxiv.org/abs/2610.28631)|null|
+|**2026-10-20**|**KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting**|Radu Beche et.al.|[2610.28615](http://arxiv.org/abs/2610.28615)|null|
+|**2026-10-20**|**CoGaussian: Open-Vocabulary Gaussian-based Collaborative 3D Scene Understanding**|Om Shivam Verma et.al.|[2610.28530](http://arxiv.org/abs/2610.28530)|null|
+|**2026-10-20**|**Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection**|Changrui Zhu et.al.|[2610.28490](http://arxiv.org/abs/2610.28490)|null|
+|**2026-10-20**|**RayCo4D: Ray-Conditioned Continuous Motion Model for Monocular 4D Dynamic Reconstruction**|Yuanxiang Ni et.al.|[2610.28351](http://arxiv.org/abs/2610.28351)|null|
+|**2026-10-20**|**SplatFlux: Feed-Forward 4D Gaussian Reconstruction and Generation from Video Latents**|Runmin Zhang et.al.|[2610.28257](http://arxiv.org/abs/2610.28257)|null|
+|**2026-10-20**|**CrossFit-GS: Out-of-Fold Pose Estimation for COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2610.28190](http://arxiv.org/abs/2610.28190)|null|
+|**2026-10-20**|**OV-Foam: How 3D Representations Shape Semantic Feature Lifting**|Yousef Rajeh et.al.|[2610.28131](http://arxiv.org/abs/2610.28131)|null|
+|**2026-10-20**|**Differentiable Task-Driven Coded Aperture Camera Design with 3D Gaussian Scene Representations**|Chengyang Yan et.al.|[2610.28004](http://arxiv.org/abs/2610.28004)|null|
+|**2026-10-20**|**Geometry Regularization for Vanilla NeRF via Self-Supervised Cross-Ray Consistency**|Zongji Wang et.al.|[2610.27776](http://arxiv.org/abs/2610.27776)|null|
+|**2026-10-20**|**World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation**|Jiushu Li et.al.|[2610.27725](http://arxiv.org/abs/2610.27725)|null|
+|**2026-10-20**|**RLSplat: Resource-Linear Budget Control for Feed-forward 3D Gaussian Splatting**|Injae Kim et.al.|[2610.27712](http://arxiv.org/abs/2610.27712)|null|
+|**2026-10-20**|**PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting**|Jinghan Gao et.al.|[2610.27696](http://arxiv.org/abs/2610.27696)|null|
+|**2026-10-20**|**Causal Spatiotemporal State Evolution for Monocular 4D Reconstruction**|Qiaowei Miao et.al.|[2610.27594](http://arxiv.org/abs/2610.27594)|null|
+|**2026-10-19**|**NeRF-Inspired Neural Fields for 3D Super-resolution of Reacting-Flows**|Dakshaka Vishwajith Amarathunga et.al.|[2610.27284](http://arxiv.org/abs/2610.27284)|null|
+|**2026-10-19**|**Counting Contributions, Not Views: Occlusion-Aware Densification for 3D Gaussian Splatting**|Marcel Rogge et.al.|[2610.27108](http://arxiv.org/abs/2610.27108)|null|
+|**2026-10-17**|**Codec-Compatible Learned Compression for 3D Gaussian Splatting**|Feiyang Yu et.al.|[2610.26920](http://arxiv.org/abs/2610.26920)|null|
+|**2026-10-17**|**GTSM: Gaussian Splatting with Thermal State-Space Dynamics for Spatio-Temporal Thermal Field Reconstruction and Prediction**|Yunpeng Zhao et.al.|[2610.26918](http://arxiv.org/abs/2610.26918)|null|
+|**2026-10-16**|**EGGHead: Efficient Generalizable Gaussian Heads from a Single Image**|Pilseo Park et.al.|[2610.26898](http://arxiv.org/abs/2610.26898)|null|
 |**2026-10-19**|**Learning Geometry-Aware Planning Representations for Monocular Flight with Cross-Modal Supervision**|Wencan Feng et.al.|[2610.26508](http://arxiv.org/abs/2610.26508)|null|
 |**2026-10-19**|**SplatXR: A Toolkit for Multi-Layered Extended Reality via On-Headset 3D Gaussian Splatting**|Cyrus Vachha et.al.|[2610.26338](http://arxiv.org/abs/2610.26338)|null|
 |**2026-10-19**|**PhysSkin++: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning**|Yuanhang Lei et.al.|[2610.26067](http://arxiv.org/abs/2610.26067)|null|
@@ -25,11 +44,11 @@
 |**2026-10-18**|**Localization and Neural Splatting on the Edge: An FPGA Scene Memory for Robots**|Que Haohua et.al.|[2610.25068](http://arxiv.org/abs/2610.25068)|null|
 |**2026-10-18**|**FineSplat: Fine Patches, Local Groups, Detailed Splats**|Hyebin Kim et.al.|[2610.25011](http://arxiv.org/abs/2610.25011)|null|
 |**2026-10-17**|**Arbitrary-Scale Anisotropic 3D MRI Super-Resolution with Gaussian Prototypes**|Aditya Rastogi et.al.|[2610.24858](http://arxiv.org/abs/2610.24858)|null|
-|**2026-10-17**|**SwitchSplat: Learning Discrete Object States from Casually Captured Scenes**|Yizheng Xie et.al.|[2610.24812](http://arxiv.org/abs/2610.24812)|null|
+|**2026-10-20**|**SwitchSplat: Learning Discrete Object States from Casually Captured Scenes**|Yizheng Xie et.al.|[2610.24812](http://arxiv.org/abs/2610.24812)|null|
 |**2026-10-17**|**Directionally Factorized Illumination with Spherical Harmonic Rotation**|Yimeng Dou et.al.|[2610.24811](http://arxiv.org/abs/2610.24811)|null|
 |**2026-10-17**|**RoMo-GS: Efficient Online 3D Gaussian Splatting for Robot Mapping via Exposure-Integrated Motion Blur**|Sangwoo Jung et.al.|[2610.24605](http://arxiv.org/abs/2610.24605)|null|
 |**2026-10-17**|**O-SCD++: Replay-Free Online Scene Change Detection via Recursive Evidence Fusion**|Chamuditha Jayanga Galappaththige et.al.|[2610.24462](http://arxiv.org/abs/2610.24462)|null|
-|**2026-10-17**|**HumanSkill-4D: Training-Free Language Querying of Animatable Gaussian Avatars in Space and Time**|unsu Kim et.al.|[2610.24452](http://arxiv.org/abs/2610.24452)|null|
+|**2026-10-20**|**HumanSkill-4D: Training-Free Language Querying of Animatable Gaussian Avatars in Space and Time**|Junsu Kim et.al.|[2610.24452](http://arxiv.org/abs/2610.24452)|null|
 |**2026-10-16**|**Video Diffusion Avatars: Taming Video Diffusion Models into Controllable 3D Avatars**|Simon Giebenhain et.al.|[2610.23772](http://arxiv.org/abs/2610.23772)|null|
 |**2026-10-16**|**X-Splat: Unified Gaussian Splatting for Joint RGB and X-ray 3D Reconstruction**|Wangze Xu et.al.|[2610.23237](http://arxiv.org/abs/2610.23237)|null|
 |**2026-10-19**|**TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation**|Yun Wang et.al.|[2610.23050](http://arxiv.org/abs/2610.23050)|null|
@@ -3234,7 +3253,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
