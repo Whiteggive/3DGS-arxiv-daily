@@ -2,18 +2,25 @@
 layout: default
 ---
 
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**ClunoGS: Compact Language 3D Gaussian Splatting via Unified Optimization**|Jian Xu et.al.|[2610.30013](http://arxiv.org/abs/2610.30013)|null|
+|**2026-10-21**|**AirPlayground: Benchmarking Aerial Navigation across Diverse Reconstructed Environments**|Rangya Zhang et.al.|[2610.29699](http://arxiv.org/abs/2610.29699)|null|
+|**2026-10-21**|**AutoPhyX: Automatic Text-Condition Physics Property Generation**|Bei Huang et.al.|[2610.29517](http://arxiv.org/abs/2610.29517)|null|
+|**2026-10-21**|**Progressive Permutation Alignment with Temperature-Controlled Spectral Sharpening**|Yuta Horioka et.al.|[2610.29396](http://arxiv.org/abs/2610.29396)|null|
+|**2026-10-21**|**AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting**|Rodion Shkokov et.al.|[2610.29374](http://arxiv.org/abs/2610.29374)|null|
+|**2026-10-21**|**DriftNeRF: Cross-Ray Density Drifting for Sparse-View Neural Radiance Fields**|Juntang Wang et.al.|[2610.29106](http://arxiv.org/abs/2610.29106)|null|
+|**2026-10-20**|**Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration**|Matthew Strong et.al.|[2610.28880](http://arxiv.org/abs/2610.28880)|null|
 |**2026-10-20**|**AEON: Unifying Video and 3D World Models**|Weiqi Zhang et.al.|[2610.28631](http://arxiv.org/abs/2610.28631)|null|
 |**2026-10-20**|**KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting**|Radu Beche et.al.|[2610.28615](http://arxiv.org/abs/2610.28615)|null|
 |**2026-10-20**|**CoGaussian: Open-Vocabulary Gaussian-based Collaborative 3D Scene Understanding**|Om Shivam Verma et.al.|[2610.28530](http://arxiv.org/abs/2610.28530)|null|
 |**2026-10-20**|**Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection**|Changrui Zhu et.al.|[2610.28490](http://arxiv.org/abs/2610.28490)|null|
-|**2026-10-20**|**RayCo4D: Ray-Conditioned Continuous Motion Model for Monocular 4D Dynamic Reconstruction**|Yuanxiang Ni et.al.|[2610.28351](http://arxiv.org/abs/2610.28351)|null|
+|**2026-10-21**|**RayCo4D: Ray-Conditioned Continuous Motion Model for Monocular 4D Dynamic Reconstruction**|Yuanxiang Ni et.al.|[2610.28351](http://arxiv.org/abs/2610.28351)|null|
 |**2026-10-20**|**SplatFlux: Feed-Forward 4D Gaussian Reconstruction and Generation from Video Latents**|Runmin Zhang et.al.|[2610.28257](http://arxiv.org/abs/2610.28257)|null|
 |**2026-10-20**|**CrossFit-GS: Out-of-Fold Pose Estimation for COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2610.28190](http://arxiv.org/abs/2610.28190)|null|
 |**2026-10-20**|**OV-Foam: How 3D Representations Shape Semantic Feature Lifting**|Yousef Rajeh et.al.|[2610.28131](http://arxiv.org/abs/2610.28131)|null|
@@ -31,7 +38,7 @@ layout: default
 |**2026-10-19**|**Learning Geometry-Aware Planning Representations for Monocular Flight with Cross-Modal Supervision**|Wencan Feng et.al.|[2610.26508](http://arxiv.org/abs/2610.26508)|null|
 |**2026-10-19**|**SplatXR: A Toolkit for Multi-Layered Extended Reality via On-Headset 3D Gaussian Splatting**|Cyrus Vachha et.al.|[2610.26338](http://arxiv.org/abs/2610.26338)|null|
 |**2026-10-19**|**PhysSkin++: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning**|Yuanhang Lei et.al.|[2610.26067](http://arxiv.org/abs/2610.26067)|null|
-|**2026-10-19**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Hyeongjin Nam et.al.|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
+|**2026-10-21**|**HORIA: 4D Human and Object Reconstruction from a Monocular Video with Interaction-Aware Re-Rendering**|Hyeongjin Nam et.al.|[2610.25960](http://arxiv.org/abs/2610.25960)|null|
 |**2026-10-19**|**Rethinking Sparse-View 3D Gaussian Splatting: A Few-Shot Learning Perspective on Overfitting Prevention**|Lejia Ye et.al.|[2610.25887](http://arxiv.org/abs/2610.25887)|null|
 |**2026-10-19**|**RxGS: Relightable Gaussian Stylization via BRDF Decomposition**|Wanrong Hong et.al.|[2610.25681](http://arxiv.org/abs/2610.25681)|null|
 |**2026-10-19**|**SpaRV: Sparse Radiance Voxels for Scalable Geometrically Consistent LiDAR-Visual Mapping and Rendering**|Jianheng Liu et.al.|[2610.25665](http://arxiv.org/abs/2610.25665)|null|
@@ -40,7 +47,7 @@ layout: default
 |**2026-10-18**|**GOFusion: Real-Time Gaussian-Occupancy Submap Fusion for Fisher-Informed Autonomous Robot Navigation**|Boxin Bu et.al.|[2610.25261](http://arxiv.org/abs/2610.25261)|null|
 |**2026-10-18**|**Localization and Neural Splatting on the Edge: An FPGA Scene Memory for Robots**|Que Haohua et.al.|[2610.25068](http://arxiv.org/abs/2610.25068)|null|
 |**2026-10-18**|**FineSplat: Fine Patches, Local Groups, Detailed Splats**|Hyebin Kim et.al.|[2610.25011](http://arxiv.org/abs/2610.25011)|null|
-|**2026-10-17**|**Arbitrary-Scale Anisotropic 3D MRI Super-Resolution with Gaussian Prototypes**|Aditya Rastogi et.al.|[2610.24858](http://arxiv.org/abs/2610.24858)|null|
+|**2026-10-20**|**Arbitrary-Scale Anisotropic 3D MRI Super-Resolution with Gaussian Prototypes**|Aditya Rastogi et.al.|[2610.24858](http://arxiv.org/abs/2610.24858)|null|
 |**2026-10-20**|**SwitchSplat: Learning Discrete Object States from Casually Captured Scenes**|Yizheng Xie et.al.|[2610.24812](http://arxiv.org/abs/2610.24812)|null|
 |**2026-10-17**|**Directionally Factorized Illumination with Spherical Harmonic Rotation**|Yimeng Dou et.al.|[2610.24811](http://arxiv.org/abs/2610.24811)|null|
 |**2026-10-17**|**RoMo-GS: Efficient Online 3D Gaussian Splatting for Robot Mapping via Exposure-Integrated Motion Blur**|Sangwoo Jung et.al.|[2610.24605](http://arxiv.org/abs/2610.24605)|null|
