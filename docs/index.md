@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.10.25
+## Updated on 2026.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**PixGR: Pixel-Space Generative Decoding for Fast Feed-Forward 3D Reconstruction**|Ranran Huang et.al.|[2610.31908](http://arxiv.org/abs/2610.31908)|null|
 |**2026-10-22**|**Stream4D: Streaming 4D Reconstruction with Training-free Motion Decoupling via Causal KV-Cache Attention**|Wei Zhang et.al.|[2610.31320](http://arxiv.org/abs/2610.31320)|null|
 |**2026-10-22**|**RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting**|Thanh-Khoi Nguyen et.al.|[2610.31293](http://arxiv.org/abs/2610.31293)|null|
 |**2026-10-22**|**Moving Regions, Not Moving Objects: Segmenting What Actually Moves under Camera Motion**|Wenhua Jin et.al.|[2610.31209](http://arxiv.org/abs/2610.31209)|null|
@@ -36,7 +37,7 @@ layout: default
 |**2026-10-20**|**Differentiable Task-Driven Coded Aperture Camera Design with 3D Gaussian Scene Representations**|Chengyang Yan et.al.|[2610.28004](http://arxiv.org/abs/2610.28004)|null|
 |**2026-10-20**|**Geometry Regularization for Vanilla NeRF via Self-Supervised Cross-Ray Consistency**|Zongji Wang et.al.|[2610.27776](http://arxiv.org/abs/2610.27776)|null|
 |**2026-10-20**|**World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation**|Jiushu Li et.al.|[2610.27725](http://arxiv.org/abs/2610.27725)|null|
-|**2026-10-20**|**RLSplat: Resource-Linear Budget Control for Feed-forward 3D Gaussian Splatting**|Injae Kim et.al.|[2610.27712](http://arxiv.org/abs/2610.27712)|null|
+|**2026-10-23**|**RLSplat: Resource-Linear Budget Control for Feed-forward 3D Gaussian Splatting**|Injae Kim et.al.|[2610.27712](http://arxiv.org/abs/2610.27712)|null|
 |**2026-10-20**|**PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting**|Jinghan Gao et.al.|[2610.27696](http://arxiv.org/abs/2610.27696)|null|
 |**2026-10-20**|**Causal Spatiotemporal State Evolution for Monocular 4D Reconstruction**|Qiaowei Miao et.al.|[2610.27594](http://arxiv.org/abs/2610.27594)|null|
 |**2026-10-19**|**NeRF-Inspired Neural Fields for 3D Super-resolution of Reacting-Flows**|Dakshaka Vishwajith Amarathunga et.al.|[2610.27284](http://arxiv.org/abs/2610.27284)|null|
@@ -54,7 +55,7 @@ layout: default
 |**2026-10-18**|**MCSplat: Multi-View Photometric and Geometric Consistent Feed-Forward Gaussian Splatting for Driving Scenes**|Yifei Wang et.al.|[2610.25345](http://arxiv.org/abs/2610.25345)|null|
 |**2026-10-18**|**Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion**|Yushi Lan et.al.|[2610.25276](http://arxiv.org/abs/2610.25276)|null|
 |**2026-10-18**|**GOFusion: Real-Time Gaussian-Occupancy Submap Fusion for Fisher-Informed Autonomous Robot Navigation**|Boxin Bu et.al.|[2610.25261](http://arxiv.org/abs/2610.25261)|null|
-|**2026-10-18**|**Localization and Neural Splatting on the Edge: An FPGA Scene Memory for Robots**|Que Haohua et.al.|[2610.25068](http://arxiv.org/abs/2610.25068)|null|
+|**2026-10-23**|**Localization and Neural Splatting on the Edge: An FPGA Scene Memory for Robots**|Haohua Que et.al.|[2610.25068](http://arxiv.org/abs/2610.25068)|null|
 |**2026-10-18**|**FineSplat: Fine Patches, Local Groups, Detailed Splats**|Hyebin Kim et.al.|[2610.25011](http://arxiv.org/abs/2610.25011)|null|
 |**2026-10-20**|**Arbitrary-Scale Anisotropic 3D MRI Super-Resolution with Gaussian Prototypes**|Aditya Rastogi et.al.|[2610.24858](http://arxiv.org/abs/2610.24858)|null|
 |**2026-10-20**|**SwitchSplat: Learning Discrete Object States from Casually Captured Scenes**|Yizheng Xie et.al.|[2610.24812](http://arxiv.org/abs/2610.24812)|null|
