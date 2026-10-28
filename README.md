@@ -1,4 +1,4 @@
-## Updated on 2026.10.27
+## Updated on 2026.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-27**|**Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction**|Prakhar Kaushik et.al.|[2610.37668](http://arxiv.org/abs/2610.37668)|null|
+|**2026-10-27**|**CTBakeGS: training-free baking of photorealistic CT volume renderings into 3D Gaussian splats**|Haruki Fukuda et.al.|[2610.37406](http://arxiv.org/abs/2610.37406)|null|
+|**2026-10-27**|**DomeGS: Perceptually Consistent Background Completion for Unbounded 3D Gaussian Splatting in Virtual Reality**|Anastasiya Pechko et.al.|[2610.37172](http://arxiv.org/abs/2610.37172)|null|
+|**2026-10-27**|**GCSR-OCC: Geometry Calibration and Semantic Routing for Open-Vocabulary Occupancy Prediction**|Bohua Wang et.al.|[2610.37149](http://arxiv.org/abs/2610.37149)|null|
+|**2026-10-27**|**GraftRay: Physically Based Mesh Insertion into Gaussian Splatting Scenes via Path Tracing**|Jinxin Ai et.al.|[2610.37036](http://arxiv.org/abs/2610.37036)|null|
+|**2026-10-27**|**Spatial MIMO Channel Rendering: A 3D Gaussian Splatting Approach**|Juntaek Han et.al.|[2610.36880](http://arxiv.org/abs/2610.36880)|null|
+|**2026-10-27**|**LingGS: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM**|Da Li et.al.|[2610.36853](http://arxiv.org/abs/2610.36853)|null|
+|**2026-10-27**|**GeoGSplat: Geometry-Grounded Non-Pixel-Aligned Gaussian Splatting**|Jiale Wang et.al.|[2610.36760](http://arxiv.org/abs/2610.36760)|null|
+|**2026-10-27**|**4D Reconstruction with Events & RGB**|Dulanga Weerakoon et.al.|[2610.36610](http://arxiv.org/abs/2610.36610)|null|
+|**2026-10-27**|**ClusterSplat: Semantic Cluster Selection for 3D Visual Grounding in Gaussian Splatting**|Jaesung Lee et.al.|[2610.36462](http://arxiv.org/abs/2610.36462)|null|
+|**2026-10-26**|**SG^2SLAM: Spatial Geometry-Informed 3D Gaussian Splatting SLAM for Monocular Outdoor Navigation**|Ziang Guo et.al.|[2610.36312](http://arxiv.org/abs/2610.36312)|null|
+|**2026-10-26**|**PrinGS: Privacy Preservation in Gaussian Splatting**|Gaurav Behera et.al.|[2610.36168](http://arxiv.org/abs/2610.36168)|null|
 |**2026-10-26**|**VidEdit3D: Flexible 3D Gaussian Editing with Video Diffusion**|Yanming Yang et.al.|[2610.35756](http://arxiv.org/abs/2610.35756)|null|
 |**2026-10-26**|**Robot-Aligned 3D Gaussian Splatting for Precise Reaching with Wrist-Camera VLA Policies**|Zuoxu Wang et.al.|[2610.35626](http://arxiv.org/abs/2610.35626)|null|
 |**2026-10-26**|**SG-Splat: Stable Geometry Learning under Pose Uncertainty for Pose-Free 3D Gaussian Splatting**|Xiaohan Lu et.al.|[2610.35361](http://arxiv.org/abs/2610.35361)|null|
@@ -3286,7 +3298,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261028>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
