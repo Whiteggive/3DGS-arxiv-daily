@@ -2,13 +2,29 @@
 layout: default
 ---
 
-## Updated on 2026.11.02
+## Updated on 2026.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields**|Yixiao Yang et.al.|[2611.03114](http://arxiv.org/abs/2611.03114)|null|
+|**2026-11-02**|**GaussFlaw: Fine-Grained Perceptual Diagnosis for 3D Gaussian Splatting**|Shaocheng Shen et.al.|[2611.02767](http://arxiv.org/abs/2611.02767)|null|
+|**2026-11-02**|**OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting**|Yibin Zhao et.al.|[2611.02658](http://arxiv.org/abs/2611.02658)|null|
+|**2026-11-02**|**SCARF: A Scene-Adaptive Depth-Guided G-3DGS Encoder Accelerator with Semantic Reuse and Fused Dataflow**|Zirui Ma et.al.|[2611.02365](http://arxiv.org/abs/2611.02365)|null|
+|**2026-11-01**|**Unified Loss-Aware Density Control for 3D Gaussian Splatting**|Tae-Young Kim et.al.|[2611.02044](http://arxiv.org/abs/2611.02044)|null|
+|**2026-11-01**|**4D Triangle Splatting Reconstruction of Dynamic Endoscopic Scenes from Monocular Videos**|Laura Salort-Benejam et.al.|[2611.02034](http://arxiv.org/abs/2611.02034)|null|
+|**2026-11-01**|**VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph**|Yuntae Jeon et.al.|[2611.01939](http://arxiv.org/abs/2611.01939)|null|
+|**2026-11-01**|**Xiaomi Auto World Model 2.0: Causal World Models for Real-World Driving and Embodied Intelligence**|Zhenxin Zhu et.al.|[2611.01677](http://arxiv.org/abs/2611.01677)|null|
+|**2026-11-01**|**GSExplorer: Interactive World Generation with a Persistent 3D Gaussian World State**|Sicheng Yu et.al.|[2611.01543](http://arxiv.org/abs/2611.01543)|null|
+|**2026-11-01**|**AbacusGS: Gaussian Splatting without Per-Splat Sorting**|Jiacheng Ding et.al.|[2611.01534](http://arxiv.org/abs/2611.01534)|null|
+|**2026-10-31**|**SHield: Watermarking 4D Gaussian Splatting via Spherical Harmonic Coefficient Perturbation**|Kunal Bhosikar et.al.|[2611.01162](http://arxiv.org/abs/2611.01162)|null|
+|**2026-10-31**|**3D Gaussian Splatting: A New Paradigm for Wireless Environment Representation**|Jinya Zhang et.al.|[2611.01122](http://arxiv.org/abs/2611.01122)|null|
+|**2026-10-31**|**A Reproducible Reconstruction and Evaluation Framework for Photorealistic Lunar Analog Scene Reconstruction Toward Digital Twins**|Antar Mazumder et.al.|[2611.00870](http://arxiv.org/abs/2611.00870)|null|
+|**2026-10-31**|**3D Neural Rendering for Automated Ultrasonic Laser Scans**|Thomas Pierson et.al.|[2611.00527](http://arxiv.org/abs/2611.00527)|null|
+|**2026-10-30**|**MoRE-GS: Motion-Regime Experts for Future Gaussian Splatting**|Shima Salehi et.al.|[2611.00375](http://arxiv.org/abs/2611.00375)|null|
+|**2026-10-30**|**Scaling Trusted Autonomy: Towards Generally Capable Verifiable Robots**|Benedict Quartey et.al.|[2611.00158](http://arxiv.org/abs/2611.00158)|null|
 |**2026-10-29**|**Prior-Guided Single-Exposure HDR Novel View Synthesis via Base-Gain Representation**|Armin Shafiee Sarvestani et.al.|[2610.41011](http://arxiv.org/abs/2610.41011)|null|
 |**2026-10-29**|**L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory**|Jinhyeok Choi et.al.|[2610.40614](http://arxiv.org/abs/2610.40614)|null|
 |**2026-10-29**|**LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation**|Oliver Hahn et.al.|[2610.40495](http://arxiv.org/abs/2610.40495)|null|
