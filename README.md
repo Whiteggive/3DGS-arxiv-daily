@@ -1,4 +1,4 @@
-## Updated on 2026.11.03
+## Updated on 2026.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,11 +12,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-03**|**GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs**|Qi Yang et.al.|[2611.05359](http://arxiv.org/abs/2611.05359)|null|
+|**2026-11-03**|**GSPIM: A Temporal-Locality-Aware 4DGS Accelerator for PIM-Enabled Edge Devices**|Zirui Ma et.al.|[2611.04804](http://arxiv.org/abs/2611.04804)|null|
+|**2026-11-03**|**Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video**|Hosung Jeon et.al.|[2611.04666](http://arxiv.org/abs/2611.04666)|null|
+|**2026-11-03**|**3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment**|Yuke Xing et.al.|[2611.04498](http://arxiv.org/abs/2611.04498)|null|
+|**2026-11-03**|**Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation**|Can Wang et.al.|[2611.04493](http://arxiv.org/abs/2611.04493)|null|
+|**2026-11-03**|**IGSW: Multi-Weather Urban Scene Reconstruction with Intrinsic-Decoupled Gaussian Splatting**|Zhongquan Wang et.al.|[2611.04374](http://arxiv.org/abs/2611.04374)|null|
+|**2026-11-03**|**EndoS3:Endoscopic Semantic Splatting SLAM**|Mona Sheikh Zeinoddin et.al.|[2611.04358](http://arxiv.org/abs/2611.04358)|null|
+|**2026-11-03**|**SettleSplat: Monocular Gaussian Mapping under In-View Scene Changes**|Anh Thuan Tran et.al.|[2611.04195](http://arxiv.org/abs/2611.04195)|null|
+|**2026-11-02**|**FlowRig: Unified Skeleton Generation for 3D and 4D Meshes via Flow Matching**|Fengzhi Guo et.al.|[2611.03775](http://arxiv.org/abs/2611.03775)|null|
 |**2026-11-02**|**3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields**|Yixiao Yang et.al.|[2611.03114](http://arxiv.org/abs/2611.03114)|null|
 |**2026-11-02**|**GaussFlaw: Fine-Grained Perceptual Diagnosis for 3D Gaussian Splatting**|Shaocheng Shen et.al.|[2611.02767](http://arxiv.org/abs/2611.02767)|null|
 |**2026-11-02**|**OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting**|Yibin Zhao et.al.|[2611.02658](http://arxiv.org/abs/2611.02658)|null|
 |**2026-11-02**|**SCARF: A Scene-Adaptive Depth-Guided G-3DGS Encoder Accelerator with Semantic Reuse and Fused Dataflow**|Zirui Ma et.al.|[2611.02365](http://arxiv.org/abs/2611.02365)|null|
-|**2026-11-01**|**Unified Loss-Aware Density Control for 3D Gaussian Splatting**|Tae-Young Kim et.al.|[2611.02044](http://arxiv.org/abs/2611.02044)|null|
+|**2026-11-03**|**Unified Loss-Aware Density Control for 3D Gaussian Splatting**|Tae-Young Kim et.al.|[2611.02044](http://arxiv.org/abs/2611.02044)|null|
 |**2026-11-01**|**4D Triangle Splatting Reconstruction of Dynamic Endoscopic Scenes from Monocular Videos**|Laura Salort-Benejam et.al.|[2611.02034](http://arxiv.org/abs/2611.02034)|null|
 |**2026-11-01**|**VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph**|Yuntae Jeon et.al.|[2611.01939](http://arxiv.org/abs/2611.01939)|null|
 |**2026-11-01**|**Xiaomi Auto World Model 2.0: Causal World Models for Real-World Driving and Embodied Intelligence**|Zhenxin Zhu et.al.|[2611.01677](http://arxiv.org/abs/2611.01677)|null|
@@ -3325,7 +3334,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
