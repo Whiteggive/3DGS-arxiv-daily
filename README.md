@@ -1,4 +1,4 @@
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,16 +12,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-03**|**GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs**|Qi Yang et.al.|[2611.05359](http://arxiv.org/abs/2611.05359)|null|
-|**2026-11-03**|**GSPIM: A Temporal-Locality-Aware 4DGS Accelerator for PIM-Enabled Edge Devices**|Zirui Ma et.al.|[2611.04804](http://arxiv.org/abs/2611.04804)|null|
+|**2026-11-04**|**BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting**|Yuxi Hu et.al.|[2611.06593](http://arxiv.org/abs/2611.06593)|null|
+|**2026-11-04**|**TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics**|Shu'ang Sun et.al.|[2611.06442](http://arxiv.org/abs/2611.06442)|null|
+|**2026-11-04**|**Quo Vadis, Driving Scene Reconstruction? Occlusion-Aware Gaussian Densification**|Dung Do Tien et.al.|[2611.06273](http://arxiv.org/abs/2611.06273)|null|
+|**2026-11-04**|**CrossPressor: Scalable Cross-View Fusion for Feed-Forward 3D Gaussian Splatting**|Yuxi Hu et.al.|[2611.06258](http://arxiv.org/abs/2611.06258)|null|
+|**2026-11-04**|**METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting**|Sooyeun Yang et.al.|[2611.06020](http://arxiv.org/abs/2611.06020)|null|
+|**2026-11-03**|**GaussianRenderFormer: Transformer-based Rendering of 3D Gaussian Splats**|Shahaf Valencia Levy et.al.|[2611.05593](http://arxiv.org/abs/2611.05593)|null|
+|**2026-11-04**|**GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs**|Qi Yang et.al.|[2611.05359](http://arxiv.org/abs/2611.05359)|null|
+|**2026-11-04**|**GSPIM: A Temporal-Locality-Aware 4D Gaussian Splatting Accelerator with Polymorphic PIM and Multi-Frame Rendering Dataflow**|Zirui Ma et.al.|[2611.04804](http://arxiv.org/abs/2611.04804)|null|
 |**2026-11-03**|**Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video**|Hosung Jeon et.al.|[2611.04666](http://arxiv.org/abs/2611.04666)|null|
 |**2026-11-03**|**3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment**|Yuke Xing et.al.|[2611.04498](http://arxiv.org/abs/2611.04498)|null|
 |**2026-11-03**|**Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation**|Can Wang et.al.|[2611.04493](http://arxiv.org/abs/2611.04493)|null|
 |**2026-11-03**|**IGSW: Multi-Weather Urban Scene Reconstruction with Intrinsic-Decoupled Gaussian Splatting**|Zhongquan Wang et.al.|[2611.04374](http://arxiv.org/abs/2611.04374)|null|
 |**2026-11-03**|**EndoS3:Endoscopic Semantic Splatting SLAM**|Mona Sheikh Zeinoddin et.al.|[2611.04358](http://arxiv.org/abs/2611.04358)|null|
 |**2026-11-03**|**SettleSplat: Monocular Gaussian Mapping under In-View Scene Changes**|Anh Thuan Tran et.al.|[2611.04195](http://arxiv.org/abs/2611.04195)|null|
-|**2026-11-02**|**FlowRig: Unified Skeleton Generation for 3D and 4D Meshes via Flow Matching**|Fengzhi Guo et.al.|[2611.03775](http://arxiv.org/abs/2611.03775)|null|
-|**2026-11-02**|**3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields**|Yixiao Yang et.al.|[2611.03114](http://arxiv.org/abs/2611.03114)|null|
+|**2026-11-04**|**FlowRig: Unified Skeleton Generation for 3D and 4D Meshes via Flow Matching**|Fengzhi Guo et.al.|[2611.03775](http://arxiv.org/abs/2611.03775)|null|
+|**2026-11-04**|**3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields**|Yixiao Yang et.al.|[2611.03114](http://arxiv.org/abs/2611.03114)|null|
 |**2026-11-02**|**GaussFlaw: Fine-Grained Perceptual Diagnosis for 3D Gaussian Splatting**|Shaocheng Shen et.al.|[2611.02767](http://arxiv.org/abs/2611.02767)|null|
 |**2026-11-02**|**OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting**|Yibin Zhao et.al.|[2611.02658](http://arxiv.org/abs/2611.02658)|null|
 |**2026-11-02**|**SCARF: A Scene-Adaptive Depth-Guided G-3DGS Encoder Accelerator with Semantic Reuse and Fused Dataflow**|Zirui Ma et.al.|[2611.02365](http://arxiv.org/abs/2611.02365)|null|
@@ -3334,7 +3340,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
