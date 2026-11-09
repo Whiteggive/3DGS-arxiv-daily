@@ -1,4 +1,4 @@
-## Updated on 2026.11.08
+## Updated on 2026.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use**|Mohamed Elmoghany et.al.|[2611.09036](http://arxiv.org/abs/2611.09036)|null|
 |**2026-11-05**|**SM4RT: Cascaded Feed-forward Model for 4D Reconstruction**|Pang-Chi Lo et.al.|[2611.08436](http://arxiv.org/abs/2611.08436)|null|
 |**2026-11-05**|**MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation**|Sateesh Kumar et.al.|[2611.08372](http://arxiv.org/abs/2611.08372)|null|
 |**2026-11-05**|**InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image**|Chanho Kim et.al.|[2611.08330](http://arxiv.org/abs/2611.08330)|null|
@@ -52,7 +53,7 @@
 |**2026-10-31**|**3D Gaussian Splatting: A New Paradigm for Wireless Environment Representation**|Jinya Zhang et.al.|[2611.01122](http://arxiv.org/abs/2611.01122)|null|
 |**2026-10-31**|**A Reproducible Reconstruction and Evaluation Framework for Photorealistic Lunar Analog Scene Reconstruction Toward Digital Twins**|Antar Mazumder et.al.|[2611.00870](http://arxiv.org/abs/2611.00870)|null|
 |**2026-10-31**|**3D Neural Rendering for Automated Ultrasonic Laser Scans**|Thomas Pierson et.al.|[2611.00527](http://arxiv.org/abs/2611.00527)|null|
-|**2026-10-30**|**MoRE-GS: Motion-Regime Experts for Future Gaussian Splatting**|Shima Salehi et.al.|[2611.00375](http://arxiv.org/abs/2611.00375)|null|
+|**2026-11-06**|**MoRE-GS: Motion-Regime Experts for Future Gaussian Splatting**|Shima Salehi et.al.|[2611.00375](http://arxiv.org/abs/2611.00375)|null|
 |**2026-10-30**|**Scaling Trusted Autonomy: Towards Generally Capable Verifiable Robots**|Benedict Quartey et.al.|[2611.00158](http://arxiv.org/abs/2611.00158)|null|
 |**2026-10-29**|**Prior-Guided Single-Exposure HDR Novel View Synthesis via Base-Gain Representation**|Armin Shafiee Sarvestani et.al.|[2610.41011](http://arxiv.org/abs/2610.41011)|null|
 |**2026-10-29**|**L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory**|Jinhyeok Choi et.al.|[2610.40614](http://arxiv.org/abs/2610.40614)|null|
@@ -3351,7 +3352,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
