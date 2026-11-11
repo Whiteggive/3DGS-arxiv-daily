@@ -1,4 +1,4 @@
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**Where do we Jam? - The Impact of Real and Virtual XR Spaces on Musical Creativity, Co-Presence, Affect, and Flow**|Ruben Schlagowski et.al.|[2611.14029](http://arxiv.org/abs/2611.14029)|null|
+|**2026-11-10**|**FastWild-GS: Minutes-Scale In-the-Wild Gaussian Splatting via Compact Per-Image Appearance Adaptation**|Donghun Ryu et.al.|[2611.13808](http://arxiv.org/abs/2611.13808)|null|
+|**2026-11-10**|**Marrying Capacity and Precision for Efficient 2D Gaussian Image Representation**|Lin Dong et.al.|[2611.13784](http://arxiv.org/abs/2611.13784)|null|
+|**2026-11-10**|**RF3DGS: Reflection-Free 3D Gaussian Splatting with Self-Priors**|Qiang Wen et.al.|[2611.13772](http://arxiv.org/abs/2611.13772)|null|
+|**2026-11-10**|**DepthGS: Depth-Guided Gaussian Splatting with Adaptive Regularization for High-Quality Surface Reconstruction**|Xiao Ren et.al.|[2611.13628](http://arxiv.org/abs/2611.13628)|null|
+|**2026-11-10**|**GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM**|Yuchen Yang et.al.|[2611.13528](http://arxiv.org/abs/2611.13528)|null|
+|**2026-11-09**|**RetinexGS: Retinex-Inspired Gaussian Splatting for Low-Light RAW Reconstruction**|Yulang Fei et.al.|[2611.13280](http://arxiv.org/abs/2611.13280)|null|
+|**2026-11-06**|**URL-Sim: Unified and Regulated LiDAR Simulation for High-Fidelity Reconstruction of Dynamic Driving Scenes**|Kefei Qian et.al.|[2611.12932](http://arxiv.org/abs/2611.12932)|null|
 |**2026-11-09**|**Plant Orbiter: 3D Plant Reconstruction and Generation with Video Diffusion Orbit Cameras and 3D Gaussian Splatting**|Zane K. J. Hartley et.al.|[2611.12739](http://arxiv.org/abs/2611.12739)|null|
 |**2026-11-09**|**Spaghetti Splatting: Differentiating Curvilinear Dirac Masses via Convolution**|George Shramko et.al.|[2611.12716](http://arxiv.org/abs/2611.12716)|null|
 |**2026-11-09**|**Mitigating SM-Level Load Imbalance in 3D Gaussian Splatting on GPUs**|Junha Ryu et.al.|[2611.12319](http://arxiv.org/abs/2611.12319)|null|
@@ -3368,7 +3376,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
