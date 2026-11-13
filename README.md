@@ -1,4 +1,4 @@
-## Updated on 2026.11.12
+## Updated on 2026.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,10 +12,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**MuViRL: Multimodal View-Invariant Visual Speech Representation Learning via Calibrated View Aggregation**|Fei Su et.al.|[2611.16655](http://arxiv.org/abs/2611.16655)|null|
+|**2026-11-12**|**Reconstruct What You Can: Distractor-free 4D Gaussian Splatting**|Joel Julin et.al.|[2611.16259](http://arxiv.org/abs/2611.16259)|null|
+|**2026-11-11**|**Topology-Aware 4D Gaussian Splatting for Egocentric Videos**|Leonardo Vanni et.al.|[2611.16012](http://arxiv.org/abs/2611.16012)|null|
+|**2026-11-11**|**ThermalSplat: Generalizable Pose-Free Gaussian Splatting for Sparse-View Thermal 3D Reconstruction**|Prasanna S et.al.|[2611.15435](http://arxiv.org/abs/2611.15435)|null|
+|**2026-11-11**|**A novel model-based equation for size dependent mean recovery coefficients for spheres and other shapes**|Robin de Nijs et.al.|[2611.15375](http://arxiv.org/abs/2611.15375)|null|
+|**2026-11-11**|**Track4D: Representing Dense 3D Tracking for Video Diffusion Models**|Yushi Lan et.al.|[2611.15287](http://arxiv.org/abs/2611.15287)|null|
+|**2026-11-11**|**MatrixSplat: Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs**|Yangming Zhang et.al.|[2611.15153](http://arxiv.org/abs/2611.15153)|null|
 |**2026-11-10**|**Where do we Jam? - The Impact of Real and Virtual XR Spaces on Musical Creativity, Co-Presence, Affect, and Flow**|Ruben Schlagowski et.al.|[2611.14029](http://arxiv.org/abs/2611.14029)|null|
 |**2026-11-10**|**FastWild-GS: Minutes-Scale In-the-Wild Gaussian Splatting via Compact Per-Image Appearance Adaptation**|Donghun Ryu et.al.|[2611.13808](http://arxiv.org/abs/2611.13808)|null|
 |**2026-11-10**|**Marrying Capacity and Precision for Efficient 2D Gaussian Image Representation**|Lin Dong et.al.|[2611.13784](http://arxiv.org/abs/2611.13784)|null|
-|**2026-11-10**|**RF3DGS: Reflection-Free 3D Gaussian Splatting with Self-Priors**|Qiang Wen et.al.|[2611.13772](http://arxiv.org/abs/2611.13772)|null|
+|**2026-11-11**|**RF3DGS: Reflection-Free 3D Gaussian Splatting with Self-Priors**|Qiang Wen et.al.|[2611.13772](http://arxiv.org/abs/2611.13772)|null|
 |**2026-11-10**|**DepthGS: Depth-Guided Gaussian Splatting with Adaptive Regularization for High-Quality Surface Reconstruction**|Xiao Ren et.al.|[2611.13628](http://arxiv.org/abs/2611.13628)|null|
 |**2026-11-10**|**GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM**|Yuchen Yang et.al.|[2611.13528](http://arxiv.org/abs/2611.13528)|null|
 |**2026-11-09**|**RetinexGS: Retinex-Inspired Gaussian Splatting for Low-Light RAW Reconstruction**|Yulang Fei et.al.|[2611.13280](http://arxiv.org/abs/2611.13280)|null|
@@ -3376,7 +3383,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
