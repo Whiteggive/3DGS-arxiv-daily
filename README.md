@@ -1,4 +1,4 @@
-## Updated on 2026.11.16
+## Updated on 2026.11.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation**|Jeonghwan Cho et.al.|[2611.21383](http://arxiv.org/abs/2611.21383)|null|
+|**2026-11-16**|**QuantileGS: Quantile-Based Conformal Bounds on RGB Rendering Errors for Novel View Synthesis with 3D Gaussian Splatting**|Haiyang Xu et.al.|[2611.21253](http://arxiv.org/abs/2611.21253)|null|
+|**2026-11-16**|**A Gaussian Primitive Data Management Framework for Efficient 3DGS Trajectory Rendering**|Haolun Ma et.al.|[2611.20546](http://arxiv.org/abs/2611.20546)|null|
+|**2026-11-16**|**ReScene: Incremental Scene Chronology from Sparse Revisits**|Wei Qin Chuah et.al.|[2611.20433](http://arxiv.org/abs/2611.20433)|null|
+|**2026-11-16**|**InterRSGaussian: Interactive Multi-view Instance Segmentation for 3D Remote Sensing Scenes**|Zipeng Qi et.al.|[2611.20425](http://arxiv.org/abs/2611.20425)|null|
+|**2026-11-15**|**CiGS: Conduction in Gaussian Splats for Interior Temperature Field from Thermal Images**|Liu Zhenyuan et.al.|[2611.20283](http://arxiv.org/abs/2611.20283)|null|
+|**2026-11-15**|**See the Lives of Stars in a Handful of Light**|Shuhong Liu et.al.|[2611.20089](http://arxiv.org/abs/2611.20089)|null|
+|**2026-11-15**|**PanDWM: Panoramic 4D Driving World Models**|Jiajun Sun et.al.|[2611.19857](http://arxiv.org/abs/2611.19857)|null|
+|**2026-11-15**|**SemLite-GS: Semantic-Selective Parallel Gaussian Splatting for Lightweight Building Reconstruction from UAV Oblique Imagery**|Tengfei Wang et.al.|[2611.19773](http://arxiv.org/abs/2611.19773)|null|
+|**2026-11-14**|**Prepare Lighter and Faster for Open-Vocabulary Queries: A Query-Wise 3D Segmenter for Gaussian Splatting**|Nhat-Quynh Le-Pham et.al.|[2611.19429](http://arxiv.org/abs/2611.19429)|null|
+|**2026-11-12**|**Angel: Anchor-Structured Neural Gaussians for Explicit Fetal Diffusion MRI Slice-to-Volume Reconstruction with Cross-Subject Learning**|Wenxuan Wu et.al.|[2611.18766](http://arxiv.org/abs/2611.18766)|null|
+|**2026-11-06**|**TopSDF: Topological Signed Distance Field for High-Quality Triangle Mesh Extraction from 3D Gaussian Splatting**|Khoi Do et.al.|[2611.18708](http://arxiv.org/abs/2611.18708)|null|
 |**2026-11-13**|**MacroGS: Macro-Pixel Shared Gaussian Primitives for Arbitrary-Scale Light Field Super-Resolutio**|Zeqiang Wei et.al.|[2611.17957](http://arxiv.org/abs/2611.17957)|null|
 |**2026-11-13**|**Stage-wise Lineage-aware Dropout for Sparse-View 3D Gaussian Splatting**|Yan Xing et.al.|[2611.17752](http://arxiv.org/abs/2611.17752)|null|
 |**2026-11-12**|**Kosmo-GFM: A Production-Ready Geometry Foundation Model**|Sheng Tang et.al.|[2611.16840](http://arxiv.org/abs/2611.16840)|null|
@@ -3386,7 +3398,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
