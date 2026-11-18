@@ -2,17 +2,27 @@
 layout: default
 ---
 
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**ReTouchGS: Ultralight Render-free Aesthetic Color Enhancement and Transfer for 3D Gaussian Splatting**|Chuanzhi Xu et.al.|[2611.23054](http://arxiv.org/abs/2611.23054)|null|
+|**2026-11-17**|**You Only Encode Once: Sub-Pixel-Shifted Frames for Arbitrary-Scale Remote Sensing Super-Resolution with 2D Gaussian Splatting**|Canjie Liu et.al.|[2611.22898](http://arxiv.org/abs/2611.22898)|null|
+|**2026-11-17**|**DOOM-GS: Dynamic Out-of-core Optimization for Massive Gaussian Splatting**|Doğa Yılmaz et.al.|[2611.22805](http://arxiv.org/abs/2611.22805)|null|
+|**2026-11-17**|**GaussianMamba: Geometric and Relational State Space Scanning of 3D Gaussian Primitives**|A. Enes Doruk et.al.|[2611.22742](http://arxiv.org/abs/2611.22742)|null|
+|**2026-11-17**|**Making the World React Realistically: A Closed-Loop Interactive World Model for Autonomous Driving**|Jia Hu et.al.|[2611.22691](http://arxiv.org/abs/2611.22691)|null|
+|**2026-11-17**|**Cross3DGS: Unified Vulkan-Based 3D Gaussian Splatting Training from Workstations to Mobile Devices**|Hiroyuki Sato et.al.|[2611.22240](http://arxiv.org/abs/2611.22240)|null|
+|**2026-11-17**|**CoSphere-SLAM: Multi-Agent Panoramic Gaussian Splatting SLAM with Spherical Loop Closure**|Qi Shao et.al.|[2611.22235](http://arxiv.org/abs/2611.22235)|null|
+|**2026-11-17**|**CueSplat: Learning to Schedule Sparse Deformation for Dynamic Gaussian Splatting on Edge Devices**|Qingyuan Tang et.al.|[2611.22095](http://arxiv.org/abs/2611.22095)|null|
+|**2026-11-17**|**Accelerating 3D Gaussian Splatting Training through Selective Freezing and Computation Caching**|He Zhu et.al.|[2611.22059](http://arxiv.org/abs/2611.22059)|null|
+|**2026-11-16**|**Spectro-Spatial Survey Fusion**|Georgios N. Vassilakis et.al.|[2611.21798](http://arxiv.org/abs/2611.21798)|null|
 |**2026-11-16**|**The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation**|Jeonghwan Cho et.al.|[2611.21383](http://arxiv.org/abs/2611.21383)|null|
 |**2026-11-16**|**QuantileGS: Quantile-Based Conformal Bounds on RGB Rendering Errors for Novel View Synthesis with 3D Gaussian Splatting**|Haiyang Xu et.al.|[2611.21253](http://arxiv.org/abs/2611.21253)|null|
 |**2026-11-16**|**A Gaussian Primitive Data Management Framework for Efficient 3DGS Trajectory Rendering**|Haolun Ma et.al.|[2611.20546](http://arxiv.org/abs/2611.20546)|null|
-|**2026-11-16**|**ReScene: Incremental Scene Chronology from Sparse Revisits**|Wei Qin Chuah et.al.|[2611.20433](http://arxiv.org/abs/2611.20433)|null|
+|**2026-11-17**|**ReScene: Incremental Scene Chronology from Sparse Revisits**|Wei Qin Chuah et.al.|[2611.20433](http://arxiv.org/abs/2611.20433)|null|
 |**2026-11-16**|**InterRSGaussian: Interactive Multi-view Instance Segmentation for 3D Remote Sensing Scenes**|Zipeng Qi et.al.|[2611.20425](http://arxiv.org/abs/2611.20425)|null|
 |**2026-11-15**|**CiGS: Conduction in Gaussian Splats for Interior Temperature Field from Thermal Images**|Liu Zhenyuan et.al.|[2611.20283](http://arxiv.org/abs/2611.20283)|null|
 |**2026-11-15**|**See the Lives of Stars in a Handful of Light**|Shuhong Liu et.al.|[2611.20089](http://arxiv.org/abs/2611.20089)|null|
