@@ -34,7 +34,7 @@
 |**2026-11-18**|**Improving While Deployed: Learning Proactive End-to-End Driving from Imperfect Human Takeover Data**|Yangang Ren et.al.|[2611.23719](http://arxiv.org/abs/2611.23719)|null|
 |**2026-11-17**|**NIRJALA: Draining the Sea out of Gaussian Splatting with Three-Path Optics and Reversible Physics**|Latchan Chhetri et.al.|[2611.23450](http://arxiv.org/abs/2611.23450)|null|
 |**2026-11-17**|**Gaussian Splatoms: Direct Atomic Structure Identification in Electron Tomography**|Nalini Singh et.al.|[2611.23444](http://arxiv.org/abs/2611.23444)|null|
-|**2026-11-20**|**Autoregressive View Model**| Jensen et.al.|[2611.23417](http://arxiv.org/abs/2611.23417)|null|
+|**2026-11-20**|**Autoregressive View Model**|Jensen et.al.|[2611.23417](http://arxiv.org/abs/2611.23417)|null|
 |**2026-11-17**|**OCLDA-GS: Object-Centric Local Deformation-Aware Gaussian Streaming**|Ashim Dahal et.al.|[2611.23416](http://arxiv.org/abs/2611.23416)|null|
 |**2026-11-17**|**ReTouchGS: Ultralight Render-free Aesthetic Color Enhancement and Transfer for 3D Gaussian Splatting**|Chuanzhi Xu et.al.|[2611.23054](http://arxiv.org/abs/2611.23054)|null|
 |**2026-11-17**|**You Only Encode Once: Sub-Pixel-Shifted Frames for Arbitrary-Scale Remote Sensing Super-Resolution with 2D Gaussian Splatting**|Canjie Liu et.al.|[2611.22898](http://arxiv.org/abs/2611.22898)|null|
