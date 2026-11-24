@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**HoloSplat: Real-Time Token Streaming for Feed-Forward Human Reconstruction**|Chaofan Li et.al.|[2611.31140](http://arxiv.org/abs/2611.31140)|null|
+|**2026-11-23**|**WildAnySplat: Feed-Forward 3D Gaussian Splatting in the Wild**|Richard Shaw et.al.|[2611.31023](http://arxiv.org/abs/2611.31023)|null|
+|**2026-11-23**|**GSDet: Gaussian Splatting for Oriented Object Detection**|Zeyu Ding et.al.|[2611.30602](http://arxiv.org/abs/2611.30602)|null|
+|**2026-11-23**|**NNS-GS: Non-Local Neural Scattering for Relightable Gaussian Splatting**|Shiyu Liang et.al.|[2611.30351](http://arxiv.org/abs/2611.30351)|null|
+|**2026-11-23**|**AdvMTO: Multimodal and Temporal Adversarial Object Attacks via 2D Gaussian Splatting for BEV-Based 3D Object Detection**|Zhiyang Cui et.al.|[2611.30283](http://arxiv.org/abs/2611.30283)|null|
+|**2026-11-23**|**LMnOP: Pruning 3D Gaussian Splatting via Leave-Many-Out Importance**|Sunjae Jeong et.al.|[2611.30102](http://arxiv.org/abs/2611.30102)|null|
+|**2026-11-22**|**Continuous-time 4D Reconstruction via Event-guided Latent Feature Interpolation**|Gwangtak Bae et.al.|[2611.29838](http://arxiv.org/abs/2611.29838)|null|
+|**2026-11-22**|**JEPA-Shield: Safe Diffusion Planning with Latent World Models via Conformal Shielding**|Taekyung Kim et.al.|[2611.29609](http://arxiv.org/abs/2611.29609)|null|
+|**2026-11-22**|**Ride on Anything: Contact-Coupled Monocular 4D Reconstruction of a Rider and Horse in Camera and World Frames**|Zehang Weng et.al.|[2611.29435](http://arxiv.org/abs/2611.29435)|null|
+|**2026-11-22**|**SpectralGS: Spectral Gaussian Splatting for Unsupervised Spectral Super-Resolution**|Qiaoying Qu et.al.|[2611.29388](http://arxiv.org/abs/2611.29388)|null|
+|**2026-11-22**|**GALILEO: Geometric RoPE with Galilean Key Transport for Dynamic Scenes**|Youngmin Kim et.al.|[2611.29293](http://arxiv.org/abs/2611.29293)|null|
+|**2026-11-22**|**RadioWorld: Transferring World Models to Radio-Frequency Radiance Fields**|Hu Zhou et.al.|[2611.29282](http://arxiv.org/abs/2611.29282)|null|
+|**2026-11-22**|**Complementary Geometry in Gaussian Splatting**|Mingle Jiang et.al.|[2611.29236](http://arxiv.org/abs/2611.29236)|null|
+|**2026-11-21**|**Eidetic Code World Model**|Wenqing Tian et.al.|[2611.28878](http://arxiv.org/abs/2611.28878)|null|
+|**2026-11-21**|**Not All Directions Are Flat: Decomposed-Gradient Flatness for Sparse-View 3D Gaussian Splatting**|Ungbae Yoon et.al.|[2611.28802](http://arxiv.org/abs/2611.28802)|null|
+|**2026-11-21**|**ArgsWorld: Unifying 3DGS Scene Reconstruction, Generation and Extrapolation with Autoregressive Diffusion Transformer**|Weiming Chen et.al.|[2611.28792](http://arxiv.org/abs/2611.28792)|null|
+|**2026-11-21**|**SemGuard: Semantics-Decoupled Watermarking for Gaussian Splatting**|Yingying Shi et.al.|[2611.28636](http://arxiv.org/abs/2611.28636)|null|
+|**2026-11-20**|**FastD4RT: Training-Free Acceleration of Dynamic 4D Reconstruction and Tracking**|Meng Bi et.al.|[2611.28193](http://arxiv.org/abs/2611.28193)|null|
+|**2026-11-18**|**Urban State Representation for Autonomous Mobility: A Survey of Multimodal Perception, Architectures, Datasets, and Benchmarks**|Binay Kumar Singh et.al.|[2611.28129](http://arxiv.org/abs/2611.28129)|null|
+|**2026-11-18**|**GC-GS: Optimizing 3D Gaussian Splatting with Gradient Conflict as a Geometry Signal**|Chenhao Zhang et.al.|[2611.28111](http://arxiv.org/abs/2611.28111)|null|
 |**2026-11-20**|**VeilGS: Solving Darkness as a Veil of 2D Basis Maps over Retinex 3DGS**|Mohab Kishawy et.al.|[2611.27719](http://arxiv.org/abs/2611.27719)|null|
 |**2026-11-20**|**PennyGS: Full Resolution 3DGS Training in Minutes on Consumer GPUs**|Nicholas Jing Shou Nge et.al.|[2611.27525](http://arxiv.org/abs/2611.27525)|null|
 |**2026-11-20**|**BladeR: Scalable, Shape-Guided 3D Reconstruction of Wind Turbine Blades from UAV Imagery**|Jonathan Sterckx et.al.|[2611.27407](http://arxiv.org/abs/2611.27407)|null|
