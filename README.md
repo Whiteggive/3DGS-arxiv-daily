@@ -1,4 +1,4 @@
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild**|Zehan Zheng et.al.|[2611.33145](http://arxiv.org/abs/2611.33145)|null|
+|**2026-11-24**|**First-Hit Photoconsistency for Neural Surface Reconstruction**|Gabriel Lenain et.al.|[2611.32998](http://arxiv.org/abs/2611.32998)|null|
+|**2026-11-24**|**HARI4D: Hand-Articulation Aware 4D Reconstruction of Human-Object Interaction**|Semin Kim et.al.|[2611.32932](http://arxiv.org/abs/2611.32932)|null|
+|**2026-11-24**|**SpatialArena: Where Do Geometric Foundation Models Stand?**|Yu Chen et.al.|[2611.32816](http://arxiv.org/abs/2611.32816)|null|
+|**2026-11-24**|**AnyPrune: Optimization-Free Pruning for Any Feedforward 3D Gaussian Splatting Pipeline**|Nicola Leonetti et.al.|[2611.32735](http://arxiv.org/abs/2611.32735)|null|
+|**2026-11-24**|**Seeing to Drive on a Single Board: Attention-Free Depth for Onboard Robot Navigation**|Itai Mizlish et.al.|[2611.32718](http://arxiv.org/abs/2611.32718)|null|
+|**2026-11-24**|**Completion-Aware Compression for Progressive 3D Gaussian Splatting**|Reagan Koo et.al.|[2611.32628](http://arxiv.org/abs/2611.32628)|null|
+|**2026-11-24**|**COHERE4D: Training-Free Dense Surface Alignment for Coherent Metric 4D Human-Scene Reconstruction**|Zhumei Wang et.al.|[2611.32482](http://arxiv.org/abs/2611.32482)|null|
+|**2026-11-24**|**NRG-Twins: Pixel-Level Ground Truth for Rigidity Violations in Generated Videos**|Chenrui Fan et.al.|[2611.32431](http://arxiv.org/abs/2611.32431)|null|
+|**2026-11-24**|**PRC4D: Physical Relation-Constrained Persistent 4D Reconstruction**|Junho Kim et.al.|[2611.32396](http://arxiv.org/abs/2611.32396)|null|
+|**2026-11-24**|**GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM**|Weicong Zhang et.al.|[2611.32335](http://arxiv.org/abs/2611.32335)|null|
+|**2026-11-24**|**ST-SfM: Spatio-Temporal Structure-from-Motion for Initialising 4D Gaussian Splatting**| Harshit et.al.|[2611.32231](http://arxiv.org/abs/2611.32231)|null|
+|**2026-11-24**|**SplatTok: Data-Driven Compression of 3D Gaussian Splats with Scene-Level Tokens**|Sai Karthikey Pentapati et.al.|[2611.32202](http://arxiv.org/abs/2611.32202)|null|
+|**2026-11-24**|**MoGe-4D: Efficient, Flexible, and Unified Dense 4D Reconstruction and Tracking**|Ruicheng Wang et.al.|[2611.32198](http://arxiv.org/abs/2611.32198)|null|
+|**2026-11-24**|**View Management with Gaussian Placement and Opacity Regularization for Online 3DGS**|Dong Hwi Kim et.al.|[2611.32025](http://arxiv.org/abs/2611.32025)|null|
+|**2026-11-24**|**HiGS: A Hierarchical Architecture for Fast Differentiable 3D Gaussian Splatting**|Dawid Pająk et.al.|[2611.31918](http://arxiv.org/abs/2611.31918)|null|
+|**2026-11-24**|**BendGS: Observation-Conditioned Gaussian Self-Modeling for Continuum Robots**|Jeong Woon Lee et.al.|[2611.31844](http://arxiv.org/abs/2611.31844)|null|
+|**2026-11-23**|**Collision Rendering: GPU-Accelerated Trajectory Planning on Sparse Voxel Radiance Fields with Risk-Bounded Collision Checking**|Byoungkwon Yoon et.al.|[2611.31658](http://arxiv.org/abs/2611.31658)|null|
+|**2026-11-23**|**InterGS+: Inter-Frame Gaussian Splatting Compression with Geometry-Aware Transformer Prediction and Adaptive Residual Coding**|Muhammad Talha et.al.|[2611.31482](http://arxiv.org/abs/2611.31482)|null|
+|**2026-11-23**|**Tornado4D: Physics-Guided 4D Gaussian Reconstruction of a Laboratory Tornado from Sparse One-Sided Videos**|Yucheng Zhu et.al.|[2611.31435](http://arxiv.org/abs/2611.31435)|null|
+|**2026-11-23**|**Enhancing Sparse-View Gaussian Splatting with Feed-Forward Priors via Spectral Fusion and Distillation**|Weikai Lin et.al.|[2611.31428](http://arxiv.org/abs/2611.31428)|null|
 |**2026-11-23**|**HoloSplat: Real-Time Token Streaming for Feed-Forward Human Reconstruction**|Chaofan Li et.al.|[2611.31140](http://arxiv.org/abs/2611.31140)|null|
 |**2026-11-23**|**WildAnySplat: Feed-Forward 3D Gaussian Splatting in the Wild**|Richard Shaw et.al.|[2611.31023](http://arxiv.org/abs/2611.31023)|null|
 |**2026-11-23**|**GSDet: Gaussian Splatting for Oriented Object Detection**|Zeyu Ding et.al.|[2611.30602](http://arxiv.org/abs/2611.30602)|null|
@@ -37,7 +58,7 @@
 |**2026-11-20**|**BladeR: Scalable, Shape-Guided 3D Reconstruction of Wind Turbine Blades from UAV Imagery**|Jonathan Sterckx et.al.|[2611.27407](http://arxiv.org/abs/2611.27407)|null|
 |**2026-11-20**|**S2D-Splat: Static-First Gaussian Reconstruction of Dynamic Driving Scenes with Layer-Wise Feature Guidance**|Jinheng Li et.al.|[2611.27003](http://arxiv.org/abs/2611.27003)|null|
 |**2026-11-19**|**OffBeat: Multicoset Sampling for 4D Capture Beyond the Camera Frame Rate**|Chi-Wei Lee et.al.|[2611.26347](http://arxiv.org/abs/2611.26347)|null|
-|**2026-11-19**|**CryoGaussian: Heterogeneous Cryo-EM Reconstruction Made Explicit with Gaussian Splatting**|Ziwen Wang et.al.|[2611.26128](http://arxiv.org/abs/2611.26128)|null|
+|**2026-11-24**|**CryoGaussian: Heterogeneous Cryo-EM Reconstruction Made Explicit with Gaussian Splatting**|Ziwen Wang et.al.|[2611.26128](http://arxiv.org/abs/2611.26128)|null|
 |**2026-11-19**|**DfD-GS: Defocus Image Prior for Metric-Scale Single-View Depth Estimation and View Synthesis**|Shiori Ueda et.al.|[2611.26072](http://arxiv.org/abs/2611.26072)|null|
 |**2026-11-19**|**PaveSplat: Resolution-Robust Feed-Forward Gaussian Splatting with Residually Corrected Surface-Aligned Covariances**|Janghun Kim et.al.|[2611.26045](http://arxiv.org/abs/2611.26045)|null|
 |**2026-11-19**|**Multi-View Transformer with Geometry-Guided Multi-Modal ControlNet for 3D Virtual Try-On**|Sarthak Batra et.al.|[2611.25979](http://arxiv.org/abs/2611.25979)|null|
@@ -3452,7 +3473,7 @@
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
 |**2023-11-30**|**Control4D: Efficient 4D Portrait Editing with Text**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 
-<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
